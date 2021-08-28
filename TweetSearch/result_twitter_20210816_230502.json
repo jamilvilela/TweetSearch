@@ -1,0 +1,3900 @@
+{
+  "data": [
+    {
+      "created_at": "2021-08-17T02:04:44.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451295225589760",
+      "text": "@Landinez2 EEUU se centra en asegurar el aeropuerto de Kabul tras el caos https://t.co/kB2reuBwO4",
+      "author_id": "152000479"
+    },
+    {
+      "created_at": "2021-08-17T02:04:42.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451286094495748",
+      "text": "Al menos 7 personas murieron durante los hechos registrados en el aeropuerto de #Kabul | #Afganist\u00e1n \u2708\ufe0f\ud83c\udde6\ud83c\uddeb\nhttps://t.co/RN2FTXFnIi",
+      "author_id": "1347292589393915909"
+    },
+    {
+      "created_at": "2021-08-17T02:04:34.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "geo": {
+        "place_id": "01a9dbb9232f0fac"
+      },
+      "lang": "es",
+      "id": "1427451255765544960",
+      "text": "@DiegoRuete La foto no es de Kabul. Es de Hait\u00ed, 2013. La situaci\u00f3n es terrible, pero concretamente esa foto es fake.",
+      "author_id": "234549123"
+    },
+    {
+      "created_at": "2021-08-17T02:04:33.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451250308747266",
+      "text": "@dakari2 @epigmenioibarra @MinePerales1 @Damianngi @Consuelolvare11 @JavosMerol @JRN91246443 @BlessingsSoul @Monix139 @mix_ivonne @alfredo81072805 @Xavsal @1perro_politico @zuniga_vick #PaseDeLista1al43 #PaseDeLista1al43x43  con \n@epigmenioibarra \nkabul es el ejemplo de como nos han fallado\nlas elites\nla @UN no sirve\ny el mundo cada vez peor por las corporaciones\nel rico y la elite\nnos han mentido\nmucho tiempo\nhttps://t.co/maPBPj8IQv",
+      "author_id": "1326216595446829060"
+    },
+    {
+      "created_at": "2021-08-17T02:04:32.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451248161214465",
+      "text": "\u00a1Caos en Kabul! \nMiles de personas tratan de abandonar el pa\u00eds por avi\u00f3n, dejado al menos seis muertos.\n\nhttps://t.co/FXRU3rEIFR",
+      "author_id": "948683648"
+    },
+    {
+      "created_at": "2021-08-17T02:03:54.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451088593096704",
+      "text": "Y si lo mandamos a Albertito \"me olvido que soy presidente\" Fern\u00e1ndez a solucionar el temita en Kabul?\nEsta mal, pero no tan mal..\n#AlbertoFernandez #RenunciaAlberto",
+      "author_id": "1011408626"
+    },
+    {
+      "created_at": "2021-08-17T02:03:54.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451085199970309",
+      "text": "Biden afirma que la \"construcci\u00f3n de una naci\u00f3n\" nunca fue el objetivo de EE.UU. en Afganist\u00e1n https://t.co/n4bYOHl2UH",
+      "author_id": "103887345"
+    },
+    {
+      "created_at": "2021-08-17T02:03:47.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451055755960320",
+      "text": "El contexto con el que las redes sociales han compartido esta imagen, es incorrecto e impreciso, seg\u00fan advierte la propia @clarissaward de @CNN. La foto de arriba es en un espacio privado y la segunda es en las calles de Kabul. https://t.co/4bXYaSm0wa",
+      "author_id": "21232235"
+    },
+    {
+      "created_at": "2021-08-17T02:03:41.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451031684849665",
+      "text": "@pamestruz Nadie ha dicho que vayan a tirarle molotovs a la mezquita favorita de los talibanes en Kabul.\n\nLas feministas de hoy en dia ignoran o hasta justifican el machismo y la misoginia de los pa\u00edses musulmanes mientras andan haciendo berrinches por banalidades  que las deja como \ud83e\udd21",
+      "author_id": "156494748"
+    },
+    {
+      "created_at": "2021-08-17T02:03:41.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451030665564160",
+      "text": "@LupitaMiron Creo que de todas las mujeres en Kabul, debe ser la menos afectada \ud83e\udd14",
+      "author_id": "14213204"
+    },
+    {
+      "created_at": "2021-08-17T02:03:36.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427451012856651777",
+      "text": "EEUU se centra en asegurar el aeropuerto de Kabul tras el caos https://t.co/kB2reuBwO4",
+      "author_id": "152000479"
+    },
+    {
+      "created_at": "2021-08-17T02:03:28.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450976148107265",
+      "text": "@javo1978 @r4fa3ls @MothLeonel @omarbula @linaresfulo @ramonfonsecamor @MyrianeLibre @Fameglio @magepetorr @pedros52 @jledezmah26 @varga_3 @l1Ruiz @devoagopla @VictorEsJusto @maruvilla @DWolfftweet @GiuseppeNoc @ChrisjamesD @DifenbaquiadeB @wonderwomen51 @geopolytica @AnibalGDiaz @myriamwinner1 @R4Lfa @ElTwitaso @mine1942 @LatAmFr @MiguelABernalV @habalianelie @RossTercatin #NUEVO Joe Biden ha regresado a Camp David,la Secretaria de Prensa de la Casa Blanca estara ausente esta semana y la Casa Blanca ha dado por atendido el tema de Afganistan. Entre tanto, un numero indeterminado de estadounidenses siguen atrapados en Kabul..\n\nClase de pesadilla..",
+      "author_id": "748992510232391681"
+    },
+    {
+      "created_at": "2021-08-17T02:03:21.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450949409415172",
+      "text": "Impactante imagen de 640 pasajeros afganos huyendo de Afganist\u00e1n por temor a ser asesinados por los talibanes en un avi\u00f3n C-17 de la Fuerza A\u00e9rea de EEUU que despeg\u00f3 desde Kabul. \n\n\ud83d\udcf8 @DefenseOne https://t.co/sYHltxJ8eK",
+      "author_id": "75962528"
+    },
+    {
+      "created_at": "2021-08-17T02:03:16.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "geo": {
+        "place_id": "13d479b108707983"
+      },
+      "lang": "es",
+      "id": "1427450927062081536",
+      "text": "Es m\u00e1s triste lo que empezar\u00e1 a vivir Afganist\u00e1n con los talibanes ocupando kabul, m\u00e1s de un antitodo, empezando por los grupos feministas extremos, izquierdozos, etc, se meter\u00e1n la lengua en el cu... Vayan a protestar pues a kabul y busquen desestabilizar a los talibanes pues?? https://t.co/CtQSYEGqSM",
+      "author_id": "127377079"
+    },
+    {
+      "created_at": "2021-08-17T02:03:16.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450925577383936",
+      "text": "@Opinologa32 Me informan por la cucaracha ,  que estan volando en vuelo charter a Kabul ... a defender a capa y espada a las mujeres ... \nSe pinturrajean todas ,muestran las tetas y van a ir a romper todo ...ya estan listas ....llegaran en breve imagenes de su lucha",
+      "author_id": "3234593744"
+    },
+    {
+      "created_at": "2021-08-17T02:03:15.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450924239368193",
+      "text": "#16Ago   Caos en Afganist\u00e1n: personas caen de un avi\u00f3n en su desespero por huir de Kabul +VIDEOS https://t.co/RWl1Q3u7cD",
+      "author_id": "171299971"
+    },
+    {
+      "created_at": "2021-08-17T02:03:08.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450894036176897",
+      "text": "@andres_molanor Me gust\u00f3 Kabul de M.E Hirsh sobre la guerra civil y 300 d\u00edas en Afganist\u00e1n de Natalia Zimmerman, un retrato muy honesto de lo que era Kabul en el 2003. \n\n\"El librero de Kabul\" no es un malo, solo si es dif\u00edcil como se distancia la narradora, aunque salvarlos a todos no puede.",
+      "author_id": "82977238"
+    },
+    {
+      "created_at": "2021-08-17T02:03:03.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450872682909697",
+      "text": "De tanta plata y gente perdida ya no quiere saber nada de Afganist\u00e1n y adivinen que los Talibanes han venido tomando el control de los sitios sin ocupaci\u00f3n extranjera llegando a la conquista de kabul acercandose otra epoca oscura como la de hace a\u00f1os dejandole pocas opciones \u23ec",
+      "author_id": "206017929"
+    },
+    {
+      "created_at": "2021-08-17T02:03:02.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450870296367108",
+      "text": "La impactante imagen de la bodega de un avi\u00f3n militar repleta de afganos que lograron escapar de los talibanes: La Fuerza A\u00e9rea de Estados Unidos evacu\u00f3 de manera segura a unos 640 afganos de Kabul el domingo por la noche, seg\u00fan funcionarios de Defen.. https://t.co/ZmxWcR8wbS",
+      "author_id": "75684101"
+    },
+    {
+      "created_at": "2021-08-17T02:03:01.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450864873222148",
+      "text": "\u279c Estados Unidos evac\u00faa a sus perros militares de #Kabul, tras la toma de los talibanes\n\nUsuarios tuvieron comentarios positivos tras ver videos de la situaci\u00f3n.\n\nAgosto/16/2021\n#PrimeraHoraEcuador https://t.co/vw6toQ4wS1",
+      "author_id": "1255348591935270912"
+    },
+    {
+      "created_at": "2021-08-17T02:03:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450859261108238",
+      "text": "Esto No es #KABUL: Es #Oaxaca Violenta y despiden a defensora que protegi\u00f3 alumnas v\u00edctimas de acoso sexual en #Oaxaca en universidad p\u00fablica #UNISTMO_SUNEO\n\n @FabiolaAlanis_S\n  @nadgasman\n @ONUMujeres\n @UEenMexico \nhttps://t.co/obTNzsAtWU",
+      "author_id": "1251655397250924544"
+    },
+    {
+      "created_at": "2021-08-17T02:02:52.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450827023781888",
+      "text": "VIDEO: Caos en el aeropuerto de Kabul https://t.co/QAJk0h80cy v\u00eda @masinformacion_",
+      "author_id": "410170338"
+    },
+    {
+      "created_at": "2021-08-17T02:02:51.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450820933607427",
+      "text": "@GuerreraJca @rafa_cavada estamos en campa\u00f1a para que vayas a Kabul \u00bfTe parece? Pero all\u00e1 no hay kepchut",
+      "author_id": "1394679947495682048"
+    },
+    {
+      "created_at": "2021-08-17T02:02:44.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450792223682560",
+      "text": "Opini\u00f3n: El Kaos en Kabul y el Jefe de Kamala https://t.co/TNbM2r426A v\u00eda @YouTube",
+      "author_id": "2484256222"
+    },
+    {
+      "created_at": "2021-08-17T02:02:35.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450756014170112",
+      "text": "@NituPerez Le hace falta ver m\u00e1s noticias, ya se han enviado aviones para recoger a las personas que huyen de kabul, hay unos que buscaran \u00fanicamente a mujeres e incluso otros a mujeres activistas pakistanis. Otra cosa es que las feministas no son un grupo t\u00e1ctico militar jajajaja",
+      "author_id": "1419941640"
+    },
+    {
+      "created_at": "2021-08-17T02:02:35.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450753883516931",
+      "text": "Caos en el aeropuerto de Kabul mientras los afganos intentan huir https://t.co/e3clmcUT5i via @Magazine Latino - Noticias para latinos en Canad\u00e1",
+      "author_id": "122528381"
+    },
+    {
+      "created_at": "2021-08-17T02:02:32.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450744303665155",
+      "text": "\ud83c\udde6\ud83c\uddeb\ud83c\uddfa\ud83c\uddf2 | Bajo \u00f3rdenes de no entrar en combate con el Talib\u00e1n, las fuerzas norteamericanas se replegan hasta Kabul y empiezan la retirada del pa\u00eds, a las apuradas y un mes antes de lo pactado.\n\nLa Embajada quema todo, y los diplom\u00e1ticos se escapan mientras el Talib\u00e1n entra a Kabul. https://t.co/rx463ljaWH",
+      "author_id": "1169664359628509184"
+    },
+    {
+      "created_at": "2021-08-17T02:02:32.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450743401943043",
+      "text": "De tonos de todos los colores est\u00e1n hechos los d\u00edas\u2026 uno se contenta por la merecida paz de un alma en Caracas y se angustia por las de otras en Kabul. Qu\u00e9 mundo tan extra\u00f1o.",
+      "author_id": "197247872"
+    },
+    {
+      "created_at": "2021-08-17T02:02:31.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450736900808722",
+      "text": "\ud83c\udde6\ud83c\uddeb\ud83c\uddfa\ud83c\uddf2 | En tan solo 15 d\u00edas, el Talib\u00e1n captura 33 capitales provinciales y se embarca en atacar Kabul.\n\nEn todo este tiempo, Estados Unidos con Biden no retir\u00f3 ni uno de los 2.500 soldados, incluso lo elev\u00f3 a 3.500, y prometi\u00f3 dejar 650 \"tropas permanentes\". No hubo retirada. https://t.co/QKFGeKG8lU",
+      "author_id": "1169664359628509184"
+    },
+    {
+      "created_at": "2021-08-17T02:02:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450731414577156",
+      "text": "Miles de personas intentan huir de #Kabul en #Bucaramanga Decretan calamidad p\u00fablica por  #basura (c\u00f3mo los noticiero y pol\u00edticos de Santander  est\u00e1n preocupados por los #talibanes) y estamos a punto de huir por la emergencia de #ElCarrasco https://t.co/Pt5bvWPArf",
+      "author_id": "75633066"
+    },
+    {
+      "created_at": "2021-08-17T02:02:28.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450725060202506",
+      "text": "Afganist\u00e1n: los primeros cambios para las mujeres en Kabul tras el control talib\u00e1n Mat\u00edas Luis Emilio Velutini La toma del control de la capital afgana por parte del Talib\u00e1n causa desconfianza en la poblaci\u00f3n, particularmente en las mujeres, que temen perder los derechos gan\u2026 https://t.co/SgxXGYcXgp",
+      "author_id": "1397972462529359874"
+    },
+    {
+      "created_at": "2021-08-17T02:02:28.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450724103999491",
+      "text": "Kabul airport plunges into chaos as Taliban patrol capital\nhttps://t.co/nkKTPVwgFH",
+      "author_id": "1299025243911131141"
+    },
+    {
+      "created_at": "2021-08-17T02:02:26.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450719225978885",
+      "text": "@malcalibrado7 Ahhhhh con eso sladram volando de Kabul...",
+      "author_id": "73222278"
+    },
+    {
+      "created_at": "2021-08-17T02:02:24.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450710757711872",
+      "text": "@T13 Pens\u00e9 que hablaban los talibanes desde kabul",
+      "author_id": "104042350"
+    },
+    {
+      "created_at": "2021-08-17T02:02:23.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450704881496064",
+      "text": "@PODEMOS Para daros mas dineritos y que hag\u00e1is alg\u00fan chiringuito m\u00e1s? No gracias, por cierto, de Afganist\u00e1n o aunque sea de Kabul ni mu, no? Ya vemos que eso del feminismo solo sirve para quejarse de cosas que no tienen sentido y no de las verdaderas injusticias que sufren mas mujeres...",
+      "author_id": "873561574744748032"
+    },
+    {
+      "created_at": "2021-08-17T02:02:21.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450695020593153",
+      "text": "Lamentable, son personas cayendo de un avi\u00f3n que reci\u00e9n despegaba de #Kabul, estaban al parecer sujetas en el tren de aterrizaje.\n\n https://t.co/zilWl5NOHI https://t.co/zD89ZwR7cS",
+      "author_id": "2956757144"
+    },
+    {
+      "created_at": "2021-08-17T02:02:20.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450693741424640",
+      "text": "Afganist\u00e1n: los primeros cambios para las mujeres en Kabul tras el control talib\u00e1n \n https://t.co/E4OUk8wnjC #caribe #americalatina #latinos #mexico #usa #republicadominicana #covi_19",
+      "author_id": "520638787"
+    },
+    {
+      "created_at": "2021-08-17T02:02:19.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450688146186246",
+      "text": "@JoviNomas \u00bfNo comprendo por qu\u00e9 est\u00e1 mal pedir que vayan Las Tesis a Kabul a luchar por los derechos de las mujeres? \u270a... \u00bfser\u00e1 que le tienen miedo a la muerte?\u2620... los que piden que ellas vayan, \u00bfser\u00e1 que las quieren muertas?... muchas preguntas sin respuesta y mucho imb\u00e9cil opinando \ud83e\udd14",
+      "author_id": "1384184657516720133"
+    },
+    {
+      "created_at": "2021-08-17T02:02:17.000Z",
+      "public_metrics": {
+        "retweet_count": 14,
+        "reply_count": 1,
+        "like_count": 27,
+        "quote_count": 1
+      },
+      "lang": "es",
+      "id": "1427450681405935616",
+      "text": "\ud83c\udde6\ud83c\uddeb\ud83c\uddfa\ud83c\uddf2 | CRISIS EN AFGANIST\u00c1N\n\nEl mundo qued\u00f3 at\u00f3nito ante las im\u00e1genes de la ca\u00edda de Kabul, el Talib\u00e1n llegando al poder y las Fuerzas Armadas de Estados Unidos escapando del pa\u00eds.\n\nPero, \u00bfQu\u00e9 es lo que realmente pas\u00f3 en Afganist\u00e1n? https://t.co/srSgSdPtX8",
+      "author_id": "1169664359628509184"
+    },
+    {
+      "created_at": "2021-08-17T02:02:12.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450657192169481",
+      "text": "@SenorCaicedo Mientras tanto Mar\u00eda Fernanda Cabal hace pintar de gris las calles de Kabul. https://t.co/GFADExjktn",
+      "author_id": "961063277995483137"
+    },
+    {
+      "created_at": "2021-08-17T02:02:00.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450607690989574",
+      "text": "Varios pa\u00edses occidentales trasladan sus embajadas al aeropuerto de Kabul - https://t.co/x8BbTD9ySt",
+      "author_id": "3523960827"
+    },
+    {
+      "created_at": "2021-08-17T02:02:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450607594479625",
+      "text": "Se reportan diez fallecidos por estampidas y dos por disparos de soldados estadounidenses en #Kabul https://t.co/2NULAiElpN",
+      "author_id": "25695532"
+    },
+    {
+      "created_at": "2021-08-17T02:01:58.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450601210777601",
+      "text": "Talibanes toman Kabul y el presidente huye de Afganist\u00e1n\n\nRevisa la nota en nuestro sitio web https://t.co/c0JoCDAY5R https://t.co/GnbnBjU7gR",
+      "author_id": "348729178"
+    },
+    {
+      "created_at": "2021-08-17T02:01:50.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450567912210435",
+      "text": "Este reportaje desde Kabul es impresionante https://t.co/499CDneUjS",
+      "author_id": "2453626569"
+    },
+    {
+      "created_at": "2021-08-17T02:01:45.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450545908895746",
+      "text": "#16Ago   \u00bfD\u00f3nde queda Kabul y c\u00f3mo surgi\u00f3 el grupo Talib\u00e1n? +FOTOS https://t.co/KILemnEdJw",
+      "author_id": "171299971"
+    },
+    {
+      "created_at": "2021-08-17T02:01:44.000Z",
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 2,
+        "like_count": 41,
+        "quote_count": 3
+      },
+      "lang": "es",
+      "id": "1427450540250734619",
+      "text": "640 personas en un avi\u00f3n de EUA despegando de Kabul, seg\u00fan reportan medios internacionales. https://t.co/8jc7jxozga",
+      "author_id": "31141996"
+    },
+    {
+      "created_at": "2021-08-17T02:01:41.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450530520043521",
+      "text": "Afganist\u00e1n: Cinco personas fallecieron esta ma\u00f1ana tras intentar huir de Kabul https://t.co/3YiWKUtiGi",
+      "author_id": "832686254873468929"
+    },
+    {
+      "created_at": "2021-08-17T02:01:40.000Z",
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450522911526913",
+      "text": "La rid\u00edcula y diminuta oposici\u00f3n reaccionaria, intentando ver c\u00f3mo le hace para encajar su odio contra la 4T en el tema Talib\u00e1n. Ya nomas les falt\u00f3 decir que el aeropuerto Felipe \u00c1ngeles se parece al de Kabul \nMe cae que s\u00ed dan risa. https://t.co/qAv6mck1QG",
+      "author_id": "247844816"
+    },
+    {
+      "created_at": "2021-08-17T02:01:35.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450505815629829",
+      "text": "coincido pues -en las im\u00e1genes q nos llegan d Afganist\u00e1n- solo c ven hombres (ejemplo: el aeropuerto de Kabul) Q pasa y q pasar\u00e1 c las mujeres? Los pa\u00edses q c han expresado c preocupaci\u00f3n, ni mencionan a la minas....Compa\u00f1eres, se puede hacer algo? 1 marcha x las mujeres d all\u00ed? https://t.co/3l0A8QAiiq",
+      "author_id": "1219426252353916929"
+    },
+    {
+      "created_at": "2021-08-17T02:01:26.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450464564617217",
+      "text": "Se espera que despu\u00e9s de la salida de los soldados de los estadounidenses de Kabul Afganist\u00e1n, todos los talibanes entren de nuevo a Kabul, que Dios ampare a las miles de personas que huyen...",
+      "author_id": "1365098203356528643"
+    },
+    {
+      "created_at": "2021-08-17T02:01:16.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450425662394370",
+      "text": "#LasM\u00e1sLe\u00eddas | 1 - Seis muertos en aeropuerto de Kabul tras caos de personas que buscan huir https://t.co/D3YzIEWz5L https://t.co/VNUZWbVUxV",
+      "author_id": "64419705"
+    },
+    {
+      "created_at": "2021-08-17T02:01:15.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450419089920006",
+      "text": "Mis respetos a esta periodista que le ha dado prioridad a su objetivo de comunicar lo que pasa en Afganistan sobre cualquier otra cosa. \n\nLa presencia talib\u00e1n en Kabul ya se nota: la corresponsal de la CNN, obligada a cambiar de ropa https://t.co/vpL3F6GhpG",
+      "author_id": "246512800"
+    },
+    {
+      "created_at": "2021-08-17T02:01:14.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450415168245767",
+      "text": "Llevo todo el d\u00eda pensando en la corresponsal de CNN en Kabul con 24 horas de diferencia to-do-el-d\u00eda",
+      "author_id": "151527852"
+    },
+    {
+      "created_at": "2021-08-17T02:01:13.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450411796029443",
+      "text": "@CNNEE Joe Biden fue Senador durante Saigon, Vice President durante Benghazi, y Presidente durante Kabul.\nY Biden est\u00e1 sorprendido?  No aprendi\u00f3 en casi 40 a\u00f1os en la politica?  \nLos medios de comunicaci\u00f3n pasaron 4 a\u00f1os, dia a dia  dici\u00e9ndo del tonto Trump y luego nos salen con esto?",
+      "author_id": "1256207746812317696"
+    },
+    {
+      "created_at": "2021-08-17T02:01:08.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450388509245441",
+      "text": "No se hagan ideas, le preguntaba si a\u00fan estaba en Kabul para encargarle un paquete de pan pita o alguna mamada as\u00ed https://t.co/7AkrojzHUE",
+      "author_id": "248041509"
+    },
+    {
+      "created_at": "2021-08-17T02:01:01.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450361623814144",
+      "text": "#16Ago  Terror en Afganist\u00e1n: impactantes fotos del caos en el aeropuerto de Kabul https://t.co/k5iSNz0K06",
+      "author_id": "171299971"
+    },
+    {
+      "created_at": "2021-08-17T02:01:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450358591328263",
+      "text": "@FridaSiKahlo Tuiteando de Kabul ?",
+      "author_id": "2265988641"
+    },
+    {
+      "created_at": "2021-08-17T02:00:51.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450320418967553",
+      "text": "@MayorBWPayne De una manera mucho menos violenta, lo que pasa en Argentina desde las PASO es un poco la llegada del talib\u00e1n a Kabul.\nEsa imagen es la subida del d\u00f3lar, ezeiza, el riesgo pa\u00eds, etc etc etc",
+      "author_id": "1378675565364969475"
+    },
+    {
+      "created_at": "2021-08-17T02:00:47.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450303822057473",
+      "text": "L\u00e1stima que Biden explic\u00f3 las atinadas razones para la entrega de Kabul despu\u00e9s de huir.",
+      "author_id": "161838613"
+    },
+    {
+      "created_at": "2021-08-17T02:00:40.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450275003043842",
+      "text": "Ojo con el 2022, si gana Petro nos convertiremos en Kabul.\ud83e\udd2d",
+      "author_id": "3020621277"
+    },
+    {
+      "created_at": "2021-08-17T02:00:40.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450271991537667",
+      "text": "@elizaalvarado02 @MundoEConflicto te pareciera prudente salir a protestar contra un regimen extremista?? que no quiere que vayas a la escuela? y que violenta los derechos humanos? y eso hablando all\u00e1 en kabul, ac\u00e1 de este lado del mundo con costo y cubrimos nuestras luchas.",
+      "author_id": "1015732007563874304"
+    },
+    {
+      "created_at": "2021-08-17T02:00:39.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450270330540040",
+      "text": "Los talibanes  que significa \u2018los estudiantes' tomaron el control de Afganist\u00e1n en 1996 despu\u00e9s de capturar Kabul en la guerra civil afgana.",
+      "author_id": "379421761"
+    },
+    {
+      "created_at": "2021-08-17T02:00:37.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450260218028068",
+      "text": "Vi a una tuitera que andaba recabando firmas para que los Talibanes dejar\u00e1n Kabul\n\n\u00a1Cosita!",
+      "author_id": "3235304784"
+    },
+    {
+      "created_at": "2021-08-17T02:00:34.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "geo": {
+        "place_id": "13d479b108707983"
+      },
+      "lang": "es",
+      "id": "1427450246569897987",
+      "text": "Esos talibanes se parecen a ciertos grupos locales..nosotras, sabemos qui\u00e9nes son. No, no parece tan lejano Kabul.",
+      "author_id": "371599660"
+    },
+    {
+      "created_at": "2021-08-17T02:00:30.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450229863895040",
+      "text": "#16Ago Seis personas muertas por el caos en el aeropuerto de Kabul, seg\u00fan testigos https://t.co/pw3jxSmMBP https://t.co/HgFqA6qgtI",
+      "author_id": "2400260346"
+    },
+    {
+      "created_at": "2021-08-17T02:00:18.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450180928946181",
+      "text": "@porquetendencia La victoria kirchnerista que puso a Alberto como presidente es similar a la toma de Kabul por los talibanes en 2021.\nLa barbarie nos hermana con los afganos.",
+      "author_id": "1323097781091864582"
+    },
+    {
+      "created_at": "2021-08-17T02:00:17.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450176076226562",
+      "text": "Kabul, Venezuela, Nicaragua, Cuba, ONU, Noruega y otros\u2026Definitivamente mientras m\u00e1s conozco a los \u201chumanos\u201d m\u00e1s quiero a mi perro\ud83d\ude33\ud83d\ude29\ud83d\ude31\ud83e\udd7a\ud83d\ude22\ud83d\ude2d",
+      "author_id": "85000756"
+    },
+    {
+      "created_at": "2021-08-17T02:00:15.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450168371257344",
+      "text": "Por qu\u00e9 @nottropeano est\u00e1 en Kabul? https://t.co/IVnJljvCjR",
+      "author_id": "1426543954909093892"
+    },
+    {
+      "created_at": "2021-08-17T02:00:12.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450156564336645",
+      "text": "#Internacionales | The New York Times: La ca\u00edda de Kabul pone un abrupto fin a la era estadounidense en Afganist\u00e1n .-  \u23ec https://t.co/R7KIqY6GIw",
+      "author_id": "171299971"
+    },
+    {
+      "created_at": "2021-08-17T02:00:09.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450143423569921",
+      "text": "Afganist\u00e1n: un portavoz del Talib\u00e1n habla con la BBC luego de que el grupo islamista Publicado por Redacci\u00f3n https://t.co/ueCSPBHO7H",
+      "author_id": "585695659"
+    },
+    {
+      "created_at": "2021-08-17T02:00:08.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450138495262730",
+      "text": "#EstadoIsl\u00e1mico Joe Biden defiende el retiro de tropas en Kabul: \"Ca\u00edda se dio m\u00e1s r\u00e1pido de lo esperado\".\n\nEl presidente de EU enfrenta las escenas de derrota que buscaba evitar hace un mes. Dinero invertido en ej\u00e9rcito afgano beneficia a los talibanes.\n\nhttps://t.co/pqhLioFltn",
+      "author_id": "2412888067"
+    },
+    {
+      "created_at": "2021-08-17T02:00:06.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450129712353282",
+      "text": "\ud83c\udfa5 #ENVIDEO | Afganos desesperados se cuelgan de un avi\u00f3n de #EEUU para escapar de su pa\u00eds.\n\nLa llegada de los talibanes a #Kabul y la salida de las tropas estadounidenses provoc\u00f3 el descontrol en ese pa\u00eds. \n\n\u27a1\ufe0fhttps://t.co/Xg0u5DhnCk\n\n#Noticias v\u00eda @TelemundoNews https://t.co/zi3iSnYWbW",
+      "author_id": "22952132"
+    },
+    {
+      "created_at": "2021-08-17T02:00:05.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450126642008065",
+      "text": "Top #Tendencias de Twitter en  #M\u00e9xico\nAug 16 2021:\nKabul\nBiden\nAfganist\u00e1n\nTalib\u00e1n\nTrump\nTalibanes\n#BreakTudoAwards\nAm\u00e9rica\n#ArtistoftheSummer\nLouis Tomlinson https://t.co/cyIZaTAzIY",
+      "author_id": "1090815699461832705"
+    },
+    {
+      "created_at": "2021-08-17T02:00:03.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450119914500104",
+      "text": "Seis personas muertas por el caos en el aeropuerto de Kabul, seg\u00fan testigos https://t.co/2nOVSVxIAQ\n#ESMundo https://t.co/NsbUzfEJqU",
+      "author_id": "165101694"
+    },
+    {
+      "created_at": "2021-08-17T02:00:03.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450116122812422",
+      "text": "#Kabul #Talibanes | Un ladr\u00f3n intenta robar el coche de un luchador de la UFC y de inmediato descubre por qu\u00e9 fue mala idea \u2014 Las im\u00e1genes fueron publicadas este jueves por el propio Jordan Williams de la UFC en su cuenta de In... https://t.co/UR7gFZ0zz7",
+      "author_id": "1393533241349525505"
+    },
+    {
+      "created_at": "2021-08-17T02:00:02.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450111613865984",
+      "text": "@sudes12 De quien?\nLa intendenta de Kabul?",
+      "author_id": "1420525418482913282"
+    },
+    {
+      "created_at": "2021-08-17T02:00:01.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450109726543878",
+      "text": "no tienen agua no tienen luz son los villeros de kabul",
+      "author_id": "1160031204630028288"
+    },
+    {
+      "created_at": "2021-08-17T02:00:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450106983292928",
+      "text": "#Nacional | P\u00e1nico en Kabul tras toma del poder de los talibanes en Afganist\u00e1n\n\nNota completa: https://t.co/kbTmUO4FXV https://t.co/WtxowTDIhz",
+      "author_id": "1296477089810571265"
+    },
+    {
+      "created_at": "2021-08-17T02:00:00.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 1
+      },
+      "lang": "es",
+      "id": "1427450106832252929",
+      "text": "#Infograf\u00eda\ud83d\uddd2\ufe0f| \u00bfQui\u00e9n quedar\u00e1 para hablar por las mujeres y defender los logros alcanzados en los \u00faltimos 20 a\u00f1os en #Afganist\u00e1n\ud83c\udde6\ud83c\uddeb? \n\nMujeres y ni\u00f1as de este pa\u00eds hoy se arriesgan a perder esos logros que tanto les cost\u00f3 conseguir con la llegada de los talibanes a #Kabul\ud83d\udc49",
+      "author_id": "1342697501783158785"
+    },
+    {
+      "created_at": "2021-08-17T02:00:00.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450106685521921",
+      "text": "El esfuerzo fren\u00e9tico de evacuaci\u00f3n de #Afganist\u00e1n se desarroll\u00f3 entre r\u00e1fagas ocasionales de tiroteos. Las calles de Kabul estaban atoradas de veh\u00edculos, mientras el p\u00e1nico hab\u00eda gatillado una carrera para abandonar la ciudad.\nhttps://t.co/f2hY5pvsKv",
+      "author_id": "2582629795"
+    },
+    {
+      "created_at": "2021-08-17T02:00:00.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450104001224708",
+      "text": "\ud83c\udde6\ud83c\uddeb\ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31 Impactantes im\u00e1genes: personas caen de avi\u00f3n cuando hu\u00edan de Kabul https://t.co/4BzGxLxFFY https://t.co/i7TfM9VEjC",
+      "author_id": "1313305029324034048"
+    },
+    {
+      "created_at": "2021-08-17T01:59:59.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450099626557449",
+      "text": "El caos en el aeropuerto de Kabul dificulta la evacuaci\u00f3n de los espa\u00f1oles https://t.co/0rdi56CGMb",
+      "author_id": "5273681"
+    },
+    {
+      "created_at": "2021-08-17T01:59:49.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450060732829702",
+      "text": "@msarthou @TejoMattioli Hablanos por ac\u00e0 aunq sea! \ud83d\ude01Contanos de Biden, Kabul y que debemos esperar de los Ala akbar boys!",
+      "author_id": "365462698"
+    },
+    {
+      "created_at": "2021-08-17T01:59:46.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450047889776651",
+      "text": "@Dizquierdo7 @m_ebrard Qu\u00e9 raro!!  jajaja El canciller dice: \u201c\u201dLes comparto que nuestra embajada en Theran - es concurrente para Afganist\u00e1n, en Kabul no tenemos sede - me reporta contin\u00faa SIN reporte de connacionales registrados en aquel pa\u00eds . Nstamos atentos a los acontecimientos.\u201d\u201d\u201d",
+      "author_id": "1367615514567053316"
+    },
+    {
+      "created_at": "2021-08-17T01:59:45.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450043481661441",
+      "text": "En 10 a\u00f1os tendremos una pel\u00edcula que se llamar\u00e1 algo as\u00ed como \"Hotel Kabul\" donde veremos como el mundo no pudo rescatar a personas inocentes por cuestiones burocr\u00e1ticas y pol\u00edticas, diremos nunca m\u00e1s... y en 25 a\u00f1os pasar\u00e1 en otra parte del mundo",
+      "author_id": "1178362741746221056"
+    },
+    {
+      "created_at": "2021-08-17T01:59:41.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450027643965442",
+      "text": "Ahora el Secretario de Estado de EEUU expresa que los pa\u00edses deben ayudar a Afganist\u00e1n y a su pueblo quiere huir de...https://t.co/BFw3ajFbBm\nAfganist\u00e1n Joe Biden Talibanes Kabul",
+      "author_id": "2417406006"
+    },
+    {
+      "created_at": "2021-08-17T01:59:40.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427450022845689857",
+      "text": "Parlamento Alem\u00e1n plantea enviar tropas a Afganist\u00e1n a respaldar la misi\u00f3n de extracci\u00f3n y rescate de civiles por parte del ej\u00e9rcito de EEUU. Importante destacar que en este momento hay m\u00e1s de 6000 soldados americanos defendiendo el aeropuerto de Kabul.",
+      "author_id": "2994748138"
+    },
+    {
+      "created_at": "2021-08-17T01:59:32.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449989454733339",
+      "text": "Hay cuatro argentinos en Kabul y trabajan para sacarlos de Afganist\u00e1n https://t.co/6YMNNK4Jm3",
+      "author_id": "1287788246924222464"
+    },
+    {
+      "created_at": "2021-08-17T01:59:32.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449986279747585",
+      "text": "En Kabul hay embarazadas\ud83d\ude09partiste. https://t.co/NLQL7434SB",
+      "author_id": "1231381336679690240"
+    },
+    {
+      "created_at": "2021-08-17T01:59:18.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449927790116864",
+      "text": "EXCLUSIVO: MACRI EN KABUL. EL FUNDAMENTALISMO DE LIBRE MERCADO EST\u00c1 DE FIESTA.\n-LOS TALIBANES SON BUENOS PIBES. SE LOS DIJE... S\u00cd, SE PUEDE!!! \ud83d\ude01 https://t.co/olFf8vmXyz",
+      "author_id": "173987729"
+    },
+    {
+      "created_at": "2021-08-17T01:59:11.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449901156290562",
+      "text": "La Casa Blanca defiende la retirada de Afganist\u00e1n pese a las cr\u00edticas por el colapso de Kabul https://t.co/RTgv5EH3wF a trav\u00e9s de @elpais_america",
+      "author_id": "3005586707"
+    },
+    {
+      "created_at": "2021-08-17T01:59:10.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449894374150150",
+      "text": "@MicaelaLibson No la vi Kabul, es del mismo que Lost me parece.",
+      "author_id": "1399498216215875589"
+    },
+    {
+      "created_at": "2021-08-17T01:59:09.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449892222476290",
+      "text": "En resumen Krugman explica la ENORME ca\u00edda de los EEUU que significa Kabul con una analog\u00eda de mierda en la que la Espa\u00f1a de Goya y Churruca ser\u00edan los atrasados talibanes, y los franceses unos in\u00fatiles que no pudieron derrotarnos. He petado, ma\u00f1ana m\u00e1s,",
+      "author_id": "168777266"
+    },
+    {
+      "created_at": "2021-08-17T01:59:08.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449886950268928",
+      "text": "Incre\u00edble lo de Kabul. Es de otra realidad totalmente diferente. C\u00f3mo de una pel\u00edcula",
+      "author_id": "606796728"
+    },
+    {
+      "created_at": "2021-08-17T01:59:07.000Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449883485642786",
+      "text": "Internacional: AEROPUERTO DE KABUL: Afganos se suben a un avi\u00f3n en pleno despegue para huir de los talibanes - Diario El Comercio Videos: * AEROPUERTO DE KABUL: Afganos se suben a un avi\u00f3n en pleno despegue para huir de los talibanes\u00a0\u00a0Diario El Comercio Videos * V\u00eddeo | Cientos\u2026 https://t.co/NMxjh6HLTW",
+      "author_id": "729769470764322816"
+    },
+    {
+      "created_at": "2021-08-17T01:59:06.000Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449880759324672",
+      "text": "Internacional: AEROPUERTO DE KABUL: Afganos se suben a un avi\u00f3n en pleno despegue para huir de los talibanes - Diario El Comercio Videos https://t.co/HJKbCunrxc https://t.co/G5DGgCw9kJ",
+      "author_id": "3100691602"
+    },
+    {
+      "created_at": "2021-08-17T01:59:05.000Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449873087963148",
+      "text": "Internacional: Lo que hicieron los talibanes para llegar a Kabul - CNN en Espa\u00f1ol: * Lo que hicieron los talibanes para llegar a Kabul\u00a0\u00a0CNN en Espa\u00f1ol * Los talibanes 'intentan aislar a Kabul', advierte el Pent\u00e1gono\u00a0\u00a0infobae * Ver cobertura completa en Google\u00a0Noticias https://t.co/ZH7cStFDHD",
+      "author_id": "729769470764322816"
+    },
+    {
+      "created_at": "2021-08-17T01:59:04.000Z",
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449870336499713",
+      "text": "Internacional: Lo que hicieron los talibanes para llegar a Kabul - CNN en Espa\u00f1ol https://t.co/CGGHNRi28l https://t.co/HCGqKK6QhM",
+      "author_id": "3100691602"
+    },
+    {
+      "created_at": "2021-08-17T01:59:03.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449868294004737",
+      "text": "\ud83d\udfe1 #INFOSHOT | Miles de personas desesperadas por huir de Afganist\u00e1n abarrotaban el aeropuerto de Kabul esto ocasion\u00f3 que todos los vuelos fueran suspendidos. \n\n#Villahermosa #Tabasco #Noticia https://t.co/VAjLdI9jfy",
+      "author_id": "315278595"
+    },
+    {
+      "created_at": "2021-08-17T01:59:03.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "lang": "es",
+      "id": "1427449867991883783",
+      "text": "La foto del a\u00f1o: Interior del Reach 871, un C-17 de la Fuerza A\u00e9rea de EE.UU. que llev\u00f3 640 afganos de Kabul a Qatar este domingo. El avi\u00f3n aterriz\u00f3 sin problemas. #Afganistan https://t.co/Bom5VuuqZT",
+      "author_id": "616670315"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "Reporteros Asociados Del Mundo",
+        "description": "Agencia de Noticias Reporteros Asociados Del mundo,fundada el mes de Septiembre de 1991.Sede  Bogot\u00e0-Colombia \nDirector Rub\u00e9n Dar\u00edo Mej\u00eda S\u00e1nchez",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 5002,
+          "tweet_count": 120279,
+          "listed_count": 28
+        },
+        "username": "reporaso",
+        "location": "Colombia",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/8MskxsbP74",
+                "expanded_url": "http://reporterosasociados.com.co",
+                "display_url": "reporterosasociados.com.co"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-06-04T20:25:15.000Z",
+        "id": "152000479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/936480425320513536/38MyGD2__normal.jpg"
+      },
+      {
+        "name": "Distritt",
+        "description": "Las noticias de M\u00e9xico \ud83c\uddf2\ud83c\uddfd y el mundo \ud83c\udf0e en un solo lugar. S\u00edguenos tambi\u00e9n en \ud83d\udc49 @DistrittD y @DistrittPuebla \ud83d\uddde\ufe0f",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 25,
+          "tweet_count": 1878,
+          "listed_count": 0
+        },
+        "username": "distritt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/xcq4RSEZQT",
+                "expanded_url": "https://distritt.com/",
+                "display_url": "distritt.com"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 79,
+                "end": 89,
+                "username": "DistrittD"
+              },
+              {
+                "start": 92,
+                "end": 107,
+                "username": "DistrittPuebla"
+              }
+            ]
+          }
+        },
+        "created_at": "2021-01-07T21:23:53.000Z",
+        "id": "1347292589393915909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354779460336160775/WZTiXYZY_normal.jpg"
+      },
+      {
+        "name": "Fernando Pena #YoMeVacuno #YoMeQuedoEnCasa",
+        "description": "Fot\u00f3grafo free lance en Uruguay. Free lance photographer in Uruguay.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 660,
+          "tweet_count": 3194,
+          "listed_count": 5
+        },
+        "username": "fpenafotografo",
+        "location": "Uruguay",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/fI3FD3e5d9",
+                "expanded_url": "https://fernandopenaphoto.photoshelter.com/index",
+                "display_url": "fernandopenaphoto.photoshelter.com/index"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-01-05T23:01:57.000Z",
+        "id": "234549123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1266737641946521600/ySEFSqS4_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1424557300560375808",
+        "name": "batman chairo",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 2343,
+          "tweet_count": 13543,
+          "listed_count": 2
+        },
+        "username": "ChairoBatman",
+        "created_at": "2020-11-10T17:34:27.000Z",
+        "id": "1326216595446829060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326217512623759365/T-zL_kmN_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1427388256295993347",
+        "name": "Forbes M\u00e9xico",
+        "description": "Cuenta Oficial de Twitter de la revista Forbes M\u00e9xico.",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 702941,
+          "following_count": 2899,
+          "tweet_count": 254055,
+          "listed_count": 2555
+        },
+        "username": "Forbes_Mexico",
+        "location": "Ciudad de M\u00e9xico",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/qfus6GNR8O",
+                "expanded_url": "http://www.forbes.com.mx",
+                "display_url": "forbes.com.mx"
+              }
+            ]
+          }
+        },
+        "created_at": "2012-11-14T23:25:21.000Z",
+        "id": "948683648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427239431610699778/hSgu2KBx_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1402034412850647044",
+        "name": "Julieta",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 338,
+          "tweet_count": 8599,
+          "listed_count": 0
+        },
+        "username": "juli_martinez93",
+        "location": "Jujuy",
+        "created_at": "2012-12-14T15:51:20.000Z",
+        "id": "1011408626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419854393906708480/MPNi5kDu_normal.jpg"
+      },
+      {
+        "name": "Ricardo Venancio Morales Cordero. #SexologoRVMC",
+        "description": "#PedagogoSexologo. Obes\u00f3logo. Metodolog\u00eda Investigaci\u00f3n Biom\u00e9dica Basada en la Evidencia. Digitopuntura. Medicina Natural. Depresi\u00f3n. Ansiedad. #ConsultaEnLinea",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 1951,
+          "tweet_count": 39923,
+          "listed_count": 7
+        },
+        "username": "sexologorvmc",
+        "location": "Instituto de Pedagog\u00eda Sexual.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/yrWJUV9D54",
+                "expanded_url": "http://www.facebook.com/ricardovmoralesc",
+                "display_url": "facebook.com/ricardovmorale\u2026"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 0,
+                "end": 17,
+                "tag": "PedagogoSexologo"
+              },
+              {
+                "start": 144,
+                "end": 160,
+                "tag": "ConsultaEnLinea"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-01-11T15:43:29.000Z",
+        "id": "103887345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/624614254/Dr__20RM_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1382197563009474563",
+        "name": "Juan Esteban Silva Rodr\u00edguez",
+        "description": "Journalist @RevistaSemana | Tv & Radio Host",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 4040,
+          "following_count": 4983,
+          "tweet_count": 11979,
+          "listed_count": 17
+        },
+        "username": "juanestebansr",
+        "location": "Madrid, Comunidad de Madrid",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 11,
+                "end": 25,
+                "username": "RevistaSemana"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-02-18T19:40:00.000Z",
+        "id": "21232235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417695406499237888/XW0DcrlR_normal.jpg"
+      },
+      {
+        "name": "Oleg Kostko",
+        "description": "Periodista de la @UAM_ve Hice deportes, nacionales, sucesos, investigaci\u00f3n y otros m\u00e1s. Aqu\u00ed escribo lo que quiera. Antiprogre y me gustan los memes. CNP: 24699",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 486,
+          "tweet_count": 28954,
+          "listed_count": 5
+        },
+        "username": "OlegAlejandro",
+        "location": "En todos y en ning\u00fan lugar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/M5P1Z2l0Ys",
+                "expanded_url": "http://paypal.me/oakm1991",
+                "display_url": "paypal.me/oakm1991"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 17,
+                "end": 24,
+                "username": "UAM_ve"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-06-17T02:53:52.000Z",
+        "id": "156494748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1300550326571986949/dcOqrpNd_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1354229167303368708",
+        "name": "Rodo.",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 481,
+          "tweet_count": 49166,
+          "listed_count": 6
+        },
+        "username": "Rodoo",
+        "location": "Avenida Padre Cacique.",
+        "created_at": "2008-03-25T04:30:59.000Z",
+        "id": "14213204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1383585239499300865/7srLFF71_normal.jpg"
+      },
+      {
+        "name": "Tony Montana",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 3364,
+          "following_count": 485,
+          "tweet_count": 46897,
+          "listed_count": 15
+        },
+        "username": "TonyDaoryebb",
+        "created_at": "2016-07-01T21:31:44.000Z",
+        "id": "748992510232391681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/748993432966746112/sJk1ftca_normal.jpg"
+      },
+      {
+        "name": "Juli\u00e1n Rend\u00f3n Press",
+        "description": "Periodista | M\u00e1ster en Comunicaci\u00f3n e Industrias Creativas. Antes: Caracol Radio | El Diario | Canal Telecaf\u00e9 | Post2020 Noticias",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 6128,
+          "following_count": 2176,
+          "tweet_count": 25831,
+          "listed_count": 65
+        },
+        "username": "JuliRendonPress",
+        "location": "Colombia - Espa\u00f1a",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/cc7qT1MHsK",
+                "expanded_url": "https://julirendon.pro",
+                "display_url": "julirendon.pro"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-09-21T05:08:56.000Z",
+        "id": "75962528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366129167629172736/8pzoWYPX_normal.jpg"
+      },
+      {
+        "name": "Daniel Oseches",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 292,
+          "tweet_count": 4334,
+          "listed_count": 2
+        },
+        "username": "danieloseches",
+        "location": "\u00dcT: 10.124752,-64.672893",
+        "created_at": "2010-03-29T00:59:23.000Z",
+        "id": "127377079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2907401102/68d96ee8c38dae8b967ef0f16d68f19b_normal.jpeg"
+      },
+      {
+        "name": "Pablo",
+        "description": "Me gusta viajar por cualquier medio y a donde sea , leer ,escuchar y aprender !  Amante de la buena cocina...\nBolso de nacimiento !!\nWilsonista",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 412,
+          "tweet_count": 88641,
+          "listed_count": 8
+        },
+        "username": "Lin91965",
+        "location": "Montevideo, Uruguay",
+        "created_at": "2015-06-03T02:44:23.000Z",
+        "id": "3234593744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397032880199634945/E-0kMnjB_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1426572590160748548",
+        "name": "CaraotaDigital",
+        "description": "\u00a1Directo al grano! \ud83c\udf31Somos entretenimiento, informaci\u00f3n y opini\u00f3n responsable, que da la cara. Telegram: https://t.co/tXWaV3bfu8",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 1875648,
+          "following_count": 335,
+          "tweet_count": 6507891,
+          "listed_count": 3416
+        },
+        "username": "CaraotaDigital",
+        "location": "Caracas - Venezuela",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/6caEldi7ZT",
+                "expanded_url": "http://bit.ly/CaraotaDigitalnet",
+                "display_url": "bit.ly/CaraotaDigital\u2026"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 104,
+                "end": 127,
+                "url": "https://t.co/tXWaV3bfu8",
+                "expanded_url": "https://t.me/germinadorcaraotadigital",
+                "display_url": "t.me/germinadorcara\u2026"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-07-27T01:32:25.000Z",
+        "id": "171299971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414958532148056068/RBfRW9F0_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1425884511695515655",
+        "name": "Carolina.",
+        "description": "Oveja el\u00e9ctrica. @BeautyBlendIns. Maquillaje y skincare en https://t.co/BvlgEOIWwq. #ParaRegalarParaRegalarse",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 880,
+          "tweet_count": 36089,
+          "listed_count": 8
+        },
+        "username": "carozaldua",
+        "location": "Fascination Street",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/lXGcF6VBQK",
+                "expanded_url": "https://panchesour.blogspot.com/2021/07/planta.html",
+                "display_url": "panchesour.blogspot.com/2021/07/planta\u2026"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 59,
+                "end": 82,
+                "url": "https://t.co/BvlgEOIWwq",
+                "expanded_url": "http://n9.cl/lacrbla",
+                "display_url": "n9.cl/lacrbla"
+              }
+            ],
+            "hashtags": [
+              {
+                "start": 84,
+                "end": 109,
+                "tag": "ParaRegalarParaRegalarse"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 17,
+                "end": 32,
+                "username": "BeautyBlendIns"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-10-16T21:25:51.000Z",
+        "id": "82977238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405901876126793737/-Kqh3SUc_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1425866156150231045",
+        "name": "\u2728 Maleja Castor \u2728",
+        "description": "Mad girl \ud83e\udd75\ud83e\udd84Erotic-model, I love to show my curvy body, I love my curly hair and my ass, follow me.  https://t.co/nTvTZHkpqR\nexclusive content \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 502,
+          "tweet_count": 4131,
+          "listed_count": 3
+        },
+        "username": "Bloody_marx",
+        "location": "nowhere",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/oY3AoRPjra",
+                "expanded_url": "https://onlyfans.com/malejacastor",
+                "display_url": "onlyfans.com/malejacastor"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 100,
+                "end": 123,
+                "url": "https://t.co/nTvTZHkpqR",
+                "expanded_url": "https://instagram.com/bloody_marx",
+                "display_url": "instagram.com/bloody_marx"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-10-22T03:03:37.000Z",
+        "id": "206017929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420599859619434498/_63Af0wd_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1414436670879977476",
+        "name": "Per\u00fa News \ud83c\uddf5\ud83c\uddea",
+        "description": "Todas las #Noticias del #Per\u00fa \u25aa La m\u00e1s completa fuente de informaci\u00f3n \u25aa #Per\u00faNews \u25aa RT \u2260 endoso",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 315259,
+          "following_count": 129190,
+          "tweet_count": 584928,
+          "listed_count": 2091
+        },
+        "username": "PeruNews",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/IIlHx7R9NQ",
+                "expanded_url": "http://perunews.info",
+                "display_url": "perunews.info"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 10,
+                "end": 19,
+                "tag": "Noticias"
+              },
+              {
+                "start": 24,
+                "end": 29,
+                "tag": "Per\u00fa"
+              },
+              {
+                "start": 72,
+                "end": 81,
+                "tag": "Per\u00faNews"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-09-20T00:56:14.000Z",
+        "id": "75684101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/736975260885520384/D3Ob4e0h_normal.jpg"
+      },
+      {
+        "name": "Primera Hora Ecuador",
+        "description": "Libre e Independiente l\nPeriodismo Digital",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 11145,
+          "following_count": 37,
+          "tweet_count": 2179,
+          "listed_count": 1
+        },
+        "username": "PrimeraHoraEc",
+        "location": "Ecuador",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/2kcXsuJNvN",
+                "expanded_url": "https://www.instagram.com/primerahora.ec/",
+                "display_url": "instagram.com/primerahora.ec/"
+              }
+            ]
+          }
+        },
+        "created_at": "2020-04-29T04:10:10.000Z",
+        "id": "1255348591935270912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1318254345373339650/WTPqmTpQ_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1409507878407479299",
+        "name": "MediosLibres_Feministas_UNISTME\u00d1AS",
+        "description": "Medios Libres: Red de informaci\u00f3n feminista que visibiliza denuncias de violencia institucional contra mujeres en Oaxaca, en M\u00e9xico, en Am\u00e9rica Latina",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 5001,
+          "tweet_count": 127510,
+          "listed_count": 15
+        },
+        "username": "CNstme",
+        "location": "M\u00e9xico y AL",
+        "created_at": "2020-04-18T23:34:57.000Z",
+        "id": "1251655397250924544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1310242523189784576/kGOQJ3QZ_normal.jpg"
+      },
+      {
+        "name": "Carla Perales",
+        "description": "Broker de Fianzas",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 53,
+          "tweet_count": 35,
+          "listed_count": 0
+        },
+        "username": "cgperales",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/UI4LLtYOvc",
+                "expanded_url": "http://www.perales.com.mx",
+                "display_url": "perales.com.mx"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-11-11T18:49:29.000Z",
+        "id": "410170338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1184098837675294726/-20Dt1gc_normal.jpg"
+      },
+      {
+        "name": "Ada Lovelace",
+        "description": "Madre, abuela, profesional.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 1163,
+          "tweet_count": 22512,
+          "listed_count": 0
+        },
+        "username": "AdaLove25706090",
+        "created_at": "2021-05-18T15:43:48.000Z",
+        "id": "1394679947495682048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410970414562660354/jyVKvZZe_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1275710690112745473",
+        "name": "marisabel Mancebo",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 159,
+          "tweet_count": 34340,
+          "listed_count": 1
+        },
+        "username": "marisabel_ma",
+        "created_at": "2014-04-14T14:06:39.000Z",
+        "id": "2484256222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1227133751660077056/jojUAYai_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1318340893661974528",
+        "name": "The Regular Gatsby",
+        "description": "Surfeando sobre las extra\u00f1as circunstancias de la vida.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 2771,
+          "tweet_count": 1909,
+          "listed_count": 4
+        },
+        "username": "CCyberfunky",
+        "location": "Barranquilla, Colombia",
+        "created_at": "2013-05-11T06:47:16.000Z",
+        "id": "1419941640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1286521320382115840/zpAlTn4X_normal.jpg"
+      },
+      {
+        "name": "Magazine Latino",
+        "description": "Canada Spanish Newspaper",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 580,
+          "tweet_count": 25985,
+          "listed_count": 14
+        },
+        "username": "MagazineLatino",
+        "location": "london Ontario",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/KzT5EEMzgR",
+                "expanded_url": "http://www.magazinelatino.com",
+                "display_url": "magazinelatino.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-03-13T01:19:10.000Z",
+        "id": "122528381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/455900376877654016/uFTGY3v5_normal.jpeg"
+      },
+      {
+        "pinned_tweet_id": "1423749754253684744",
+        "name": "La Derecha Diario",
+        "description": "\ud83d\udcf0 | Noticias. Te contamos lo que ning\u00fan otro medio te cuenta. Encuestas @pulsopopular_ | Deportes @lddeportes | Debates @laderechadebate",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 97174,
+          "following_count": 110,
+          "tweet_count": 6871,
+          "listed_count": 229
+        },
+        "username": "laderechadiario",
+        "location": "Argentina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/N2c72UwTYl",
+                "expanded_url": "https://derechadiario.com.ar/",
+                "display_url": "derechadiario.com.ar"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 72,
+                "end": 86,
+                "username": "pulsopopular_"
+              },
+              {
+                "start": 98,
+                "end": 109,
+                "username": "lddeportes"
+              },
+              {
+                "start": 120,
+                "end": 136,
+                "username": "laderechadebate"
+              }
+            ]
+          }
+        },
+        "created_at": "2019-09-05T17:32:23.000Z",
+        "id": "1169664359628509184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1205550267346931712/0C_tEQif_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "863925492004651009",
+        "name": "Luz \u00c1vila",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 464,
+          "tweet_count": 2761,
+          "listed_count": 1
+        },
+        "username": "luzavila70",
+        "created_at": "2010-10-01T00:41:31.000Z",
+        "id": "197247872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322368734393229312/3M3KPYiW_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1055274767576641536",
+        "name": "H\u00e9ctorMauricioG\u00f3mez\ud83d\ude1c\ud83d\udeb5",
+        "description": "Tijeras Papel Piedra Largato Spock ... \ud83e\udd2a\ud83d\udeb5\u200d\u2642\ufe0f\u26bd\ufe0f\ud83c\udde8\ud83c\uddf4",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1751,
+          "tweet_count": 23814,
+          "listed_count": 80
+        },
+        "username": "HMauricioGomez",
+        "location": "7\u00b08\u20320\u2033N 73\u00b08\u20320\u2033O",
+        "created_at": "2009-09-19T20:18:56.000Z",
+        "id": "75633066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397727610780667905/pjxdJ4k6_normal.jpg"
+      },
+      {
+        "name": "Hulk1970",
+        "description": "El Incre\u00edble Hulk...",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 61,
+          "tweet_count": 2141,
+          "listed_count": 0
+        },
+        "username": "Hulk19702",
+        "created_at": "2021-05-27T17:46:30.000Z",
+        "id": "1397972462529359874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1397972757007187979/h-zyO4Y5_normal.jpg"
+      },
+      {
+        "name": "Edith Rousseau",
+        "description": "I was born in Austria, brought up in Canada and now live in the beautiful USA. I love Jesus, my husband and my family.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 427,
+          "tweet_count": 8553,
+          "listed_count": 0
+        },
+        "username": "EdithRousseau2",
+        "created_at": "2020-08-27T16:46:29.000Z",
+        "id": "1299025243911131141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1299025922360782848/oZqS4pfU_normal.jpg"
+      },
+      {
+        "name": "Esteban Abarzua Llanos",
+        "description": "Ingeniero Comercial de sangre altiva y noble coraz\u00f3n... Hay algo m\u00e1s lindo que el Sur de Chile? \nBowie fue el mejor .",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 720,
+          "tweet_count": 3650,
+          "listed_count": 0
+        },
+        "username": "esabar40",
+        "location": "La Reina, Chile",
+        "created_at": "2009-09-10T21:13:23.000Z",
+        "id": "73222278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1393192373761499140/yHWo8gVP_normal.jpg"
+      },
+      {
+        "name": "MC",
+        "description": "\"Lo peor de las pestes no es que mata a los cuerpos, sino que desnuda a las almas y ese espect\u00e1culo suele ser horroroso\" Albert Camus.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 414,
+          "tweet_count": 3909,
+          "listed_count": 0
+        },
+        "username": "martin_kstillo",
+        "location": "Santiago de Chile",
+        "created_at": "2010-01-12T02:27:16.000Z",
+        "id": "104042350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390661915886694408/CprOnUyn_normal.jpg"
+      },
+      {
+        "name": "Antonio Jos\u00e9 de los Palomares\ud83d\udc0d",
+        "description": "backup: @Tuolentzero2_0\nhago directos en twitch cuando me aburro, mi nick es pepecementos por si os apetece pasaros",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 142,
+          "tweet_count": 282,
+          "listed_count": 0
+        },
+        "username": "tuolentzerosexy",
+        "location": "Navarra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 8,
+                "end": 23,
+                "username": "Tuolentzero2_0"
+              }
+            ]
+          }
+        },
+        "created_at": "2017-06-10T15:24:44.000Z",
+        "id": "873561574744748032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1333354415508631555/_7ps9LeS_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1310996377975975938",
+        "name": "Vulcano-7",
+        "description": "Perito Criminalista, Bombero y TUM Rescatista, el soporte de las instalaciones no son los muros que la sostienen,si no la actuaci\u00f3n de sus integrantes.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 8122,
+          "following_count": 2431,
+          "tweet_count": 14681,
+          "listed_count": 86
+        },
+        "username": "vulcano_7",
+        "created_at": "2015-01-03T03:28:49.000Z",
+        "id": "2956757144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1238598095371481088/QM5Vb_Vo_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1387373980969996290",
+        "name": "UnBot",
+        "description": "#IBelieveInGodNotInLuck \nEsta cuenta usa un bots para enviar noticias. Twitts en cada momento para que est\u00e9s informado. \ud83d\udcf0",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 2,
+          "tweet_count": 50833,
+          "listed_count": 1
+        },
+        "username": "UnBotFeliz",
+        "location": "Rep\u00fablica Dominicana",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 0,
+                "end": 23,
+                "tag": "IBelieveInGodNotInLuck"
+              }
+            ]
+          }
+        },
+        "created_at": "2012-03-10T18:48:03.000Z",
+        "id": "520638787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295633426968711168/1aHibgqZ_normal.jpg"
+      },
+      {
+        "name": "ChanchoSeis",
+        "description": "\ud83d\udc0d\ud83d\udc0d no es mi cuenta principal \ud83d\udc0d\ud83d\udc0d",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "tweet_count": 125,
+          "listed_count": 0
+        },
+        "username": "SeisChancho",
+        "created_at": "2021-04-19T16:38:53.000Z",
+        "id": "1384184657516720133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384184952003063819/b54K17i8_normal.jpg"
+      },
+      {
+        "name": "C_VallejoCabal",
+        "description": "Un Yo.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 85,
+          "tweet_count": 5720,
+          "listed_count": 0
+        },
+        "username": "C_VallejoCabal",
+        "location": "Cali, Colombia",
+        "created_at": "2018-02-07T02:25:15.000Z",
+        "id": "961063277995483137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425590519879643136/7ZMNgi4o_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1417078054422290434",
+        "name": "CCN es noticias",
+        "description": "Portal de noticias, una manera plural de ver la noticia. Aqu\u00ed no satisfacemos fanatismos. Mostramos la amarga verdad, aunque duela. Fuerza y Poder",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 10903,
+          "following_count": 3848,
+          "tweet_count": 590086,
+          "listed_count": 82
+        },
+        "username": "CCNesnoticias",
+        "location": "Caracas, Venezuela",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/LQBLzrlftP",
+                "expanded_url": "http://www.ccnesnoticias.com",
+                "display_url": "ccnesnoticias.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2015-09-02T14:18:24.000Z",
+        "id": "3523960827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1056969554079956992/zqA-_kFz_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1427298259765235717",
+        "name": "Peri\u00f3dico e-consulta",
+        "description": "El primer peri\u00f3dico digital de Puebla. Referencia Obligada \ud83d\udcf0",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 204659,
+          "following_count": 3774,
+          "tweet_count": 597205,
+          "listed_count": 968
+        },
+        "username": "e_consulta",
+        "location": "Puebla, M\u00e9xico",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 22,
+                "url": "http://t.co/Hoa2FoMGqd",
+                "expanded_url": "http://e-consulta.com/",
+                "display_url": "e-consulta.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-03-21T16:50:16.000Z",
+        "id": "25695532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419699225483517952/IW1psGDl_normal.jpg"
+      },
+      {
+        "name": "Primerafuente.cl (En \ud83c\udfe1)",
+        "description": "Medio de comunicaci\u00f3n de la s\u00e9ptima regi\u00f3n, abarcamos noticias nacionales e internacionales, para contactarnos escr\u00edbenos a : contacto@primerafuente.cl",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 5906,
+          "following_count": 903,
+          "tweet_count": 29399,
+          "listed_count": 16
+        },
+        "username": "PrimeraFuentecl",
+        "location": "Curico,Chile",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GkegSxFTJx",
+                "expanded_url": "https://primerafuente.cl/",
+                "display_url": "primerafuente.cl"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-08-04T22:22:31.000Z",
+        "id": "348729178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404105489881911297/goFc3kOD_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1339968712493940736",
+        "name": "pablo alvarez",
+        "description": "Historia y algo m\u00e1s",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1366,
+          "tweet_count": 11280,
+          "listed_count": 2
+        },
+        "username": "AlvarezpabloCl",
+        "created_at": "2014-04-02T00:17:00.000Z",
+        "id": "2453626569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287833738165051392/4ulOri6z_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1011310585076748288",
+        "name": "Nacho Lozano",
+        "description": "Periodista en Noticias Telemundo | Autor | Rover |",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 375863,
+          "following_count": 975,
+          "tweet_count": 56794,
+          "listed_count": 1047
+        },
+        "username": "nacholozano",
+        "location": "\u00dcT: 19.313399,-99.139971",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/rAlA7cH35M",
+                "expanded_url": "http://facebook.com/nacholozanoPAGE",
+                "display_url": "facebook.com/nacholozanoPAGE"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-04-14T15:07:57.000Z",
+        "id": "31141996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1360189763458899971/OI0PqBRc_normal.jpg"
+      },
+      {
+        "name": "Diario Per\u00fa21",
+        "description": "La redacci\u00f3n web de Per\u00fa21.pe te mantendr\u00e1 informado de lo \u00faltimo del acontecer nacional y mundial.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 562974,
+          "following_count": 397,
+          "tweet_count": 292561,
+          "listed_count": 798
+        },
+        "username": "peru21noticias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/voN67z9ej4",
+                "expanded_url": "http://www.peru21.pe",
+                "display_url": "peru21.pe"
+              }
+            ]
+          }
+        },
+        "created_at": "2017-02-17T20:20:48.000Z",
+        "id": "832686254873468929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329055183133941760/gaiJ_LuR_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1427139168409423872",
+        "name": "Junia",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 84800,
+          "following_count": 2180,
+          "tweet_count": 109004,
+          "listed_count": 375
+        },
+        "username": "Miriam_Junne",
+        "created_at": "2011-02-05T17:57:23.000Z",
+        "id": "247844816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352354214387789825/VIB3nvet_normal.jpg"
+      },
+      {
+        "name": "Woody Ramos",
+        "description": "62, porte\u00f1o, en Ushuaia desde 1998, conozco mi pa\u00eds por trabajar en los parques nacionales desde hace 39 a\u00f1os. Padre de Pedro (lo m\u00e1s) y bostero",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 1518,
+          "tweet_count": 6126,
+          "listed_count": 2
+        },
+        "username": "ramos_woody",
+        "location": "Ushuaia",
+        "created_at": "2020-01-21T01:08:16.000Z",
+        "id": "1219426252353916929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1219805823423127553/YUx80kaO_normal.jpg"
+      },
+      {
+        "name": "CHR\u3004MA\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "description": "Father, Son and the #HouseOfGucci\n#ChromaticaRemix",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 324,
+          "tweet_count": 4517,
+          "listed_count": 0
+        },
+        "username": "ErickIs81080096",
+        "location": "Ciudad de M\u00e9xico",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 20,
+                "end": 33,
+                "tag": "HouseOfGucci"
+              },
+              {
+                "start": 34,
+                "end": 50,
+                "tag": "ChromaticaRemix"
+              }
+            ]
+          }
+        },
+        "created_at": "2021-02-26T00:36:00.000Z",
+        "id": "1365098203356528643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422088062792781826/9XEiD3ln_normal.jpg"
+      },
+      {
+        "name": "El Colombiano",
+        "description": "Medio de comunicaci\u00f3n con 109 a\u00f1os de existencia. Informaci\u00f3n actual, exclusiva y de an\u00e1lisis. Bienvenidos.",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 2058960,
+          "following_count": 52298,
+          "tweet_count": 281005,
+          "listed_count": 4854
+        },
+        "username": "elcolombiano",
+        "location": "Medell\u00edn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/E7gkQ0IDJt",
+                "expanded_url": "http://www.elcolombiano.com",
+                "display_url": "elcolombiano.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-08-10T14:44:53.000Z",
+        "id": "64419705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268000236187910144/CPM_ZFe__normal.png"
+      },
+      {
+        "pinned_tweet_id": "1354848223140192262",
+        "name": "Victor Cadet",
+        "description": "Venezolano en el mundo, locutor y productor radial, creativo publicitario y actor en mis mejores momentos.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 1851,
+          "tweet_count": 28047,
+          "listed_count": 21
+        },
+        "username": "victorcadet",
+        "location": "Montevideu, Uruguai",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/kExMTDj2ga",
+                "expanded_url": "https://www.facebook.com/victor.cadet.1",
+                "display_url": "facebook.com/victor.cadet.1"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-02-02T22:47:22.000Z",
+        "id": "246512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1011788578198904832/JawZwn0X_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1408441682496995329",
+        "name": "Japan",
+        "description": "Viva la ret\u00f3rica y la persistencia de la memoria tambi\u00e9n. (y el caf\u00e9 y los milka y el cine y los koi y japan y mis plantas y el cruz azul )",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 306,
+          "tweet_count": 9454,
+          "listed_count": 1
+        },
+        "username": "LupitaMiron",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/yJuv2gpafS",
+                "expanded_url": "https://www.sdpnoticias.com/columnas/lupita-miron-gracias-mujeres.html",
+                "display_url": "sdpnoticias.com/columnas/lupit\u2026"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-06-03T16:17:40.000Z",
+        "id": "151527852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426207487380893710/0f2pgHrs_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1358858026300698626",
+        "name": "ana cabelli",
+        "description": "You can find anything in this account",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 155,
+          "tweet_count": 7632,
+          "listed_count": 0
+        },
+        "username": "AnaCabelli",
+        "created_at": "2020-05-01T13:04:17.000Z",
+        "id": "1256207746812317696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256209118613946370/C0cSaNmJ_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1419152430273601539",
+        "name": "Don Galleto",
+        "description": "Pinche mam\u00f3n...  \n\n\nSi viene a molestar formese en la fila.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 246,
+          "tweet_count": 9406,
+          "listed_count": 41
+        },
+        "username": "GalletoSenior",
+        "location": "M\u00e9xico",
+        "created_at": "2011-02-06T03:50:48.000Z",
+        "id": "248041509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400262569944834052/FPhWp7fX_normal.jpg"
+      },
+      {
+        "name": "juanFrancisco",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 85,
+          "tweet_count": 3279,
+          "listed_count": 1
+        },
+        "username": "SotoCanseco",
+        "created_at": "2014-01-06T23:15:39.000Z",
+        "id": "2265988641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1277440857394810881/YiwOYXDx_normal.jpg"
+      },
+      {
+        "name": "Sapito d' Inodoro",
+        "description": "\ud83d\udebe\ud83d\udc38",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 450,
+          "tweet_count": 1318,
+          "listed_count": 0
+        },
+        "username": "ElSapit82502412",
+        "created_at": "2021-04-04T11:47:31.000Z",
+        "id": "1378675565364969475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378679384547196930/eWln5MSB_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1175403397631086597",
+        "name": "DardoG",
+        "description": "Periodista y analista econ\u00f3mico. Exejecutivo, execonomista. Esclavo fiscal y bancario. Columnista de El Observador de Montevideo y La Prensa de Buenos Aires.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 34548,
+          "following_count": 62,
+          "tweet_count": 198870,
+          "listed_count": 208
+        },
+        "username": "dardogasparre",
+        "location": "Buenos Aires y Montevideo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/nee5ds9mOb",
+                "expanded_url": "http://www.dardogasparre.com",
+                "display_url": "dardogasparre.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-07-01T22:47:20.000Z",
+        "id": "161838613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427387114279346176/m1bN2Ity_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "967594255937167360",
+        "name": "Yuco Harino",
+        "description": "La vida es una joda y luego te mueres.\nMASM.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 91,
+          "tweet_count": 6649,
+          "listed_count": 0
+        },
+        "username": "yucoharino",
+        "created_at": "2015-02-05T22:55:51.000Z",
+        "id": "3020621277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/672245895132545024/M-XHT4Yx_normal.jpg"
+      },
+      {
+        "name": "Xil \ud83e\ude81",
+        "description": "quejas diarias y tweets sobre marvel",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 216,
+          "tweet_count": 4397,
+          "listed_count": 0
+        },
+        "username": "_crap_bag",
+        "location": "Nicaragua",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/GWyet4hbP2",
+                "expanded_url": "https://instagram.com/xil_gtrrz?igshid=7xnxwgkovmc9",
+                "display_url": "instagram.com/xil_gtrrz?igsh\u2026"
+              }
+            ]
+          }
+        },
+        "created_at": "2018-07-07T22:59:16.000Z",
+        "id": "1015732007563874304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419148176561475590/dF04XNzb_normal.jpg"
+      },
+      {
+        "name": "Juan Camilo",
+        "description": "@JuniorClubSA",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 1322,
+          "tweet_count": 127856,
+          "listed_count": 7
+        },
+        "username": "JCamilo1997",
+        "location": "Barranquilla, Colombia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "start": 0,
+                "end": 13,
+                "username": "JuniorClubSA"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-09-24T23:06:04.000Z",
+        "id": "379421761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1424970147673092100/-ogxzQir_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "654536430182490112",
+        "name": "Me ves y sufres",
+        "description": "Life is about learning when you stop learn YOU DIE",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 1586,
+          "tweet_count": 43735,
+          "listed_count": 18
+        },
+        "username": "quiobodanilo",
+        "created_at": "2015-06-03T19:22:17.000Z",
+        "id": "3235304784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415683284843958279/CCHaV6nt_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "732739362476056576",
+        "name": "zkv",
+        "description": "Todavia.           Instagram: zmixval",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1134,
+          "tweet_count": 81083,
+          "listed_count": 16
+        },
+        "username": "ZmixVal",
+        "location": "Por ah\u00ed",
+        "created_at": "2011-09-11T04:52:24.000Z",
+        "id": "371599660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422768495780147205/_x5onvyB_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1427334077192019969",
+        "name": "Contrapunto",
+        "description": "Somos un medio de ADN digital. Nuestro pulm\u00f3n es la generaci\u00f3n de debate y el coraz\u00f3n, la audiencia.",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 104981,
+          "following_count": 7574,
+          "tweet_count": 2291133,
+          "listed_count": 949
+        },
+        "username": "contrapuntovzla",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/lLuyK5r2nF",
+                "expanded_url": "https://contrapunto.com/",
+                "display_url": "contrapunto.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2014-03-20T18:15:41.000Z",
+        "id": "2400260346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410637473974267907/-d75RxSV_normal.jpg"
+      },
+      {
+        "name": "Digitronic",
+        "description": "Lo mejor que hizo mi vieja es este pibe que maneja.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 118,
+          "tweet_count": 5419,
+          "listed_count": 2
+        },
+        "username": "digitalwww11",
+        "location": "Ciudad Libre de Buenos Aires ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/1VpuMf060w",
+                "expanded_url": "http://bastadetiraniakirchnerista.com",
+                "display_url": "bastadetiraniakirchnerista.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2020-11-02T03:01:33.000Z",
+        "id": "1323097781091864582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1367675630205214723/S6U8vGVy_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1423107890328608771",
+        "name": "\u2130\ud835\udcc1\ud835\udcbe \ud835\udcb1\ud835\udcbe\ud835\udccb\ud835\udcb6\ud835\udcc8",
+        "description": "\ud83c\uddfb\ud83c\uddea\ud83d\udcaa\ud83c\udffcEn resistencia activa hasta recuperar nuestra libertad absoluta...",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 2212,
+          "tweet_count": 83261,
+          "listed_count": 17
+        },
+        "username": "elividiaz",
+        "location": "Venezuela",
+        "created_at": "2009-10-25T03:29:37.000Z",
+        "id": "85000756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1102281613612908545/RWr8MVR3_normal.jpg"
+      },
+      {
+        "name": "Brian",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 84,
+          "tweet_count": 50,
+          "listed_count": 0
+        },
+        "username": "Brian0v",
+        "created_at": "2021-08-14T13:59:27.000Z",
+        "id": "1426543954909093892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426544202373021706/fX6MRTba_normal.jpg"
+      },
+      {
+        "name": "Prensa Mercosur",
+        "description": "Prensa Mercosur- El diario online del Mercosur. Trabajando en conjunto con la oficina del Comit\u00e9 Paraguay de la C\u00e1mara de Industria y Comercio del Mercosur y Am",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 5693,
+          "following_count": 1997,
+          "tweet_count": 33805,
+          "listed_count": 55
+        },
+        "username": "PrensaMercosur",
+        "location": "En Am\u00e9rica del Sur.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/4GjoypeZqM",
+                "expanded_url": "http://www.prensamercosur.net",
+                "display_url": "prensamercosur.net"
+              }
+            ]
+          }
+        },
+        "created_at": "2012-05-20T14:04:46.000Z",
+        "id": "585695659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/777198809843691520/GYWvwGYg_normal.jpg"
+      },
+      {
+        "name": "La Pol\u00edtica Online M\u00e9xico",
+        "description": "Donde la #informaci\u00f3n es poder.\n\nS\u00edguenos en #Telegram: https://t.co/4bCbBWTWOv",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 29716,
+          "following_count": 306,
+          "tweet_count": 34679,
+          "listed_count": 230
+        },
+        "username": "LPOmx",
+        "location": "M\u00e9xico, DF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/iqfG2t0Eb7",
+                "expanded_url": "http://www.lapoliticaonline.com.mx",
+                "display_url": "lapoliticaonline.com.mx"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 56,
+                "end": 79,
+                "url": "https://t.co/4bCbBWTWOv",
+                "expanded_url": "https://t.me/lpomx",
+                "display_url": "t.me/lpomx"
+              }
+            ],
+            "hashtags": [
+              {
+                "start": 9,
+                "end": 21,
+                "tag": "informaci\u00f3n"
+              },
+              {
+                "start": 45,
+                "end": 54,
+                "tag": "Telegram"
+              }
+            ]
+          }
+        },
+        "created_at": "2014-03-26T16:57:32.000Z",
+        "id": "2412888067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1181198514648489984/0E3gJnxp_normal.jpg"
+      },
+      {
+        "name": "Telemundo",
+        "description": "Telemundo lo mejor de las noticias, entretenimiento, salud, series y mucho m\u00e1s aqu\u00ed. Telemundo app. Desc\u00e1rgala aqu\u00ed \ud83d\udc47\ud83c\udffb",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 2990806,
+          "following_count": 1124,
+          "tweet_count": 145391,
+          "listed_count": 6009
+        },
+        "username": "Telemundo",
+        "location": "Miami, FL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/6q6nXXLK14",
+                "expanded_url": "https://smart.link/5af47323f4d91",
+                "display_url": "smart.link/5af47323f4d91"
+              }
+            ]
+          }
+        },
+        "created_at": "2009-03-05T18:02:06.000Z",
+        "id": "22952132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039379213458042880/b0Yb7Wzf_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1281389129331286017",
+        "name": "ZeroTwo Analytics",
+        "description": "Social Analytics for Twitter. Understanding the digital environment of Mexico.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 0,
+          "tweet_count": 21160,
+          "listed_count": 9
+        },
+        "username": "ZTSAnalytics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/xA8DvRRKJI",
+                "expanded_url": "http://www.zerotwoanalytics.com",
+                "display_url": "zerotwoanalytics.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2019-01-31T03:35:03.000Z",
+        "id": "1090815699461832705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090828052957880323/vUYXla0a_normal.jpg"
+      },
+      {
+        "name": "El Siglo de Panam\u00e1",
+        "description": "Bienvenidos a la cuenta oficial de Twitter de El Peri\u00f3dico del Pueblo. Tambi\u00e9n estamos en https://t.co/2M3QG2E5hr e https://t.co/nHCokYBT0W",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 80876,
+          "following_count": 327,
+          "tweet_count": 213617,
+          "listed_count": 450
+        },
+        "username": "elsiglodigital",
+        "location": "Panam\u00e1, Rep. de Panam\u00e1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/vgRWhY1C7E",
+                "expanded_url": "http://www.elsiglo.com",
+                "display_url": "elsiglo.com"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "start": 90,
+                "end": 113,
+                "url": "https://t.co/2M3QG2E5hr",
+                "expanded_url": "http://facebook.com/elsiglodigital",
+                "display_url": "facebook.com/elsiglodigital"
+              },
+              {
+                "start": 116,
+                "end": 139,
+                "url": "https://t.co/nHCokYBT0W",
+                "expanded_url": "http://instagram.com/elsiglodigital/",
+                "display_url": "instagram.com/elsiglodigital/"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-07-10T16:11:10.000Z",
+        "id": "165101694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347693195547836416/rTx4Qkr7_normal.jpg"
+      },
+      {
+        "name": "esilapp",
+        "description": "Noticias locales, actualizadas hasta la \u00daLTIMA HORA. Sigueme para estar actualizado.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 113,
+          "tweet_count": 4823,
+          "listed_count": 0
+        },
+        "username": "esilapp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/DBGMgxp40C",
+                "expanded_url": "http://esilapp.com",
+                "display_url": "esilapp.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2021-05-15T11:46:48.000Z",
+        "id": "1393533241349525505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1393533360618840064/oEqxPKY2_normal.jpg"
+      },
+      {
+        "name": "Marcelo",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 143,
+          "tweet_count": 202,
+          "listed_count": 0
+        },
+        "username": "mbmrnr",
+        "created_at": "2021-07-28T23:24:04.000Z",
+        "id": "1420525418482913282",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+      },
+      {
+        "pinned_tweet_id": "1399361808679440384",
+        "name": "Haibane Di Maria",
+        "description": "lil beef chupachus the most beautifull remix on cosmos tengo un corazon grande ke es un arma",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 94,
+          "tweet_count": 1239,
+          "listed_count": 0
+        },
+        "username": "Hall0wnest",
+        "location": "\u16cb\u16cbArgentina\u16cb\u16cb",
+        "created_at": "2019-08-10T03:32:46.000Z",
+        "id": "1160031204630028288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420175713903288323/qocoRiXv_normal.jpg"
+      },
+      {
+        "name": "El Matutino SV",
+        "description": "Noticias a primera hora",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 696,
+          "tweet_count": 5614,
+          "listed_count": 0
+        },
+        "username": "MatutinoSv",
+        "created_at": "2020-08-20T16:09:45.000Z",
+        "id": "1296477089810571265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1296479682922262530/rA72auQa_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1427268920008871937",
+        "name": "POLITIKMNTE - Political Junkies",
+        "description": "Political Junkies \ud83d\udcf2\ud83d\udda5\ud83c\udf99 Podcast | News | Entrevistas | Memes | Opini\u00f3n | Mesa de an\u00e1lisis | Recomendaciones de series, libros y art\u00edculos de pol\u00edtica.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 141,
+          "tweet_count": 822,
+          "listed_count": 0
+        },
+        "username": "politikmnte",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/JNPHZBVoZc",
+                "expanded_url": "http://www.politikmnte.com",
+                "display_url": "politikmnte.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2020-12-26T05:03:40.000Z",
+        "id": "1342697501783158785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426071210023137283/bs8DC4qZ_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1424369877054365696",
+        "name": "OjoP\u00fablico",
+        "description": "Investigamos los abusos de poder. \nPremios globales de periodismo de datos 2015 y 2020; SIP2017,2018,2021; LASA2019. @ojolab @aliadosdeOP IG: @latiendadeop",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 173630,
+          "following_count": 454,
+          "tweet_count": 74524,
+          "listed_count": 934
+        },
+        "username": "Ojo_Publico",
+        "location": "Latinoam\u00e9rica",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/Q87siURmbD",
+                "expanded_url": "https://ojo-publico.com/aliados",
+                "display_url": "ojo-publico.com/aliados"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 117,
+                "end": 124,
+                "username": "ojolab"
+              },
+              {
+                "start": 125,
+                "end": 137,
+                "username": "aliadosdeOP"
+              },
+              {
+                "start": 142,
+                "end": 155,
+                "username": "latiendadeop"
+              }
+            ]
+          }
+        },
+        "created_at": "2014-06-22T17:59:59.000Z",
+        "id": "2582629795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338921662679486466/FkBE1QbY_normal.jpg"
+      },
+      {
+        "name": "Haupei 24",
+        "description": "Una plataforma fuera del sistema \ud83d\udcc2",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 27,
+          "tweet_count": 15107,
+          "listed_count": 5
+        },
+        "username": "Haupei24",
+        "location": "Asuncion, Paraguay",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/XniW4Q8z5l",
+                "expanded_url": "https://haupei24.com/",
+                "display_url": "haupei24.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2020-10-06T02:28:52.000Z",
+        "id": "1313305029324034048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371456587525718018/cQIpcd0u_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "808879669135241220",
+        "name": "Vozmediano News",
+        "description": "Foto, Cine, Libros, M\u00fasica, Medios. Aprendiendo a nadar bajo el aguacero. Artesano de luz y palabras https://t.co/7w7pHpa0Ew https://t.co/IYLLzyhXiX",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2017,
+          "tweet_count": 71001,
+          "listed_count": 28
+        },
+        "username": "queiles",
+        "location": "Yoknapatawpha",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "start": 101,
+                "end": 124,
+                "url": "https://t.co/7w7pHpa0Ew",
+                "expanded_url": "http://uniazul2.blogspot.com/",
+                "display_url": "uniazul2.blogspot.com"
+              },
+              {
+                "start": 125,
+                "end": 148,
+                "url": "https://t.co/IYLLzyhXiX",
+                "expanded_url": "http://www.facebook.com/alins",
+                "display_url": "facebook.com/alins"
+              }
+            ]
+          }
+        },
+        "created_at": "2007-04-19T23:32:48.000Z",
+        "id": "5273681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/600442732197322752/i857OYvQ_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1107311946838278145",
+        "name": "Educocinero",
+        "description": "Educ. Inicial, cocinero, huertero urbano y padre. Ashoka Fellow, @educocinaptodos @espaciopetit",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 2393,
+          "tweet_count": 19162,
+          "listed_count": 31
+        },
+        "username": "DiegoRuete",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/9XyI31Huij",
+                "expanded_url": "https://www.petitgourmet.edu.uy",
+                "display_url": "petitgourmet.edu.uy"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 65,
+                "end": 81,
+                "username": "educocinaptodos"
+              },
+              {
+                "start": 82,
+                "end": 95,
+                "username": "espaciopetit"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-08-31T13:49:28.000Z",
+        "id": "365462698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1285736765152796672/NxMs52aG_normal.jpg"
+      },
+      {
+        "name": "Nigari yakimeshi yamaha",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 47,
+          "tweet_count": 37,
+          "listed_count": 0
+        },
+        "username": "NigariY",
+        "created_at": "2021-03-04T23:19:19.000Z",
+        "id": "1367615514567053316",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+      },
+      {
+        "pinned_tweet_id": "1425982235866435587",
+        "name": "Rod_",
+        "description": "Se escribe ajeno. Creo contenidos. Lanzamiento de Marcas y Startups (Geek de @dataistas_ y neurociencia) CEO @catch_mexico || Aqu\u00ed Incognito",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 5066,
+          "following_count": 2690,
+          "tweet_count": 9713,
+          "listed_count": 7
+        },
+        "username": "SoyRod_",
+        "location": "Mexico ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/gi1vpWmNYx",
+                "expanded_url": "https://www.instagram.com/soyrod_/",
+                "display_url": "instagram.com/soyrod_/"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 77,
+                "end": 88,
+                "username": "dataistas_"
+              },
+              {
+                "start": 109,
+                "end": 122,
+                "username": "catch_mexico"
+              }
+            ]
+          }
+        },
+        "created_at": "2019-09-29T17:35:59.000Z",
+        "id": "1178362741746221056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415502515035049985/zg_aIi5w_normal.jpg"
+      },
+      {
+        "name": "Soy Bracho.",
+        "description": "Cre\u00f3 en el potencial de la Gente.\nNo hay mejor ideolog\u00eda que el Amor a la Patria.\n\u23e9FOROCHAT #LoDijoBracho #GenteNueva #DDHH",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 967,
+          "tweet_count": 16479,
+          "listed_count": 5
+        },
+        "username": "alex_bz6",
+        "location": "aqu\u00ed y ahora",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 92,
+                "end": 105,
+                "tag": "LoDijoBracho"
+              },
+              {
+                "start": 106,
+                "end": 117,
+                "tag": "GenteNueva"
+              },
+              {
+                "start": 118,
+                "end": 123,
+                "tag": "DDHH"
+              }
+            ]
+          }
+        },
+        "created_at": "2014-03-29T13:06:17.000Z",
+        "id": "2417406006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376909215114084352/9c4bwPo4_normal.jpg"
+      },
+      {
+        "name": "Nelson Avila",
+        "description": "M\u00e9dico Venezolano obligado a salir de su pa\u00eds por la Dictadura. UDO-ANZ.\nDoctor en Medicina UDELAR - URUGUAY\n/Anti Socialista - Anticomunista",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 798,
+          "tweet_count": 2839,
+          "listed_count": 2
+        },
+        "username": "AvilapNelson",
+        "location": "Montevideo, Uruguay",
+        "created_at": "2015-01-23T20:06:47.000Z",
+        "id": "2994748138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1388900338233745409/nNZZ--ip_normal.jpg"
+      },
+      {
+        "name": "Matias Milano",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 855,
+          "tweet_count": 1055,
+          "listed_count": 0
+        },
+        "username": "misiomati",
+        "location": "Posadas-Misiones",
+        "created_at": "2020-07-27T16:34:00.000Z",
+        "id": "1287788246924222464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1287802740341714945/k7teiAam_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1425340941137809408",
+        "name": "Brennus Vaccarezza",
+        "description": "Si Ud es Facho y nadie le habla hace semanas.. Hable conmigo. Yo lo mando a la cresta gratis. Se llama piedad.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 2554,
+          "tweet_count": 110394,
+          "listed_count": 2
+        },
+        "username": "BrennusVaccare1",
+        "created_at": "2020-02-23T00:53:47.000Z",
+        "id": "1231381336679690240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426277857408454660/aoALp0uA_normal.jpg"
+      },
+      {
+        "name": "Carlos Mariano Po\u00f3",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 3240,
+          "following_count": 4619,
+          "tweet_count": 27922,
+          "listed_count": 14
+        },
+        "username": "carlopoo",
+        "location": "Tandil, Buenos Aires",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/mbdRQ7hjy3",
+                "expanded_url": "http://www.elladooscurotienecorazon.home.blog",
+                "display_url": "elladooscurotienecorazon.home.blog"
+              }
+            ]
+          }
+        },
+        "created_at": "2010-08-02T21:07:38.000Z",
+        "id": "173987729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124611104/Patan_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "829145997695545345",
+        "name": "ENCARO\ud83c\uddf5\ud83c\uddfe\ud83d\udcc8\ud83d\udcbb\ud83d\udda5\ud83c\udfac\u26bd\ufe0f",
+        "description": "Catedr\u00e1tico. Consultor en Negocios, Econom\u00eda y Finanzas. Comunicador. Si quieres informaci\u00f3n permanente, seria y confiable que ocurre en el mundo: \u00a1S\u00edgueme!",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 3793,
+          "following_count": 1345,
+          "tweet_count": 65210,
+          "listed_count": 10
+        },
+        "username": "evcrojas",
+        "location": "Asunci\u00f3n del Paraguay",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/Y18wm8LSfJ",
+                "expanded_url": "http://www.encaro.com.py",
+                "display_url": "encaro.com.py"
+              }
+            ]
+          }
+        },
+        "created_at": "2015-01-30T13:40:55.000Z",
+        "id": "3005586707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404433263205175299/zpoYgb5H_normal.jpg"
+      },
+      {
+        "name": "nosoylakerman",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 193,
+          "tweet_count": 903,
+          "listed_count": 0
+        },
+        "username": "nosoylakerman",
+        "created_at": "2021-05-31T22:49:33.000Z",
+        "id": "1399498216215875589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399831782590234624/zIxjry6y_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1390482704563638274",
+        "name": "vborneo",
+        "description": "",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 237,
+          "tweet_count": 11529,
+          "listed_count": 1
+        },
+        "username": "vborneo",
+        "location": "Puerto Galera",
+        "created_at": "2010-07-20T19:44:02.000Z",
+        "id": "168777266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1264340572774465537/-I0lMwmY_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "817768014271680512",
+        "name": "Yani",
+        "description": "Escorpiana \ud83d\ude0f\n\nProfesora de Matem\u00e1tica. \nAprendo constantemente y me encanta!",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 339,
+          "tweet_count": 7834,
+          "listed_count": 0
+        },
+        "username": "YaniVeneroni",
+        "created_at": "2012-06-12T23:10:19.000Z",
+        "id": "606796728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1059612806096584704/XUzkj3lJ_normal.jpg"
+      },
+      {
+        "name": "#Per\u00fa #NewsWeek",
+        "description": "Tu fuente de noticias del Per\u00fa, #Am\u00e9ricaLatina y el Mundo #RPP #Pol\u00edtica @elcomercio_peru @CanalN_ @larepublica_pe",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 1580,
+          "tweet_count": 649505,
+          "listed_count": 26
+        },
+        "username": "PeruNewsweek",
+        "location": "Lima, Peru",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/uEdq9c44SA",
+                "expanded_url": "https://twitter.com/perunewsweek",
+                "display_url": "twitter.com/perunewsweek"
+              }
+            ]
+          },
+          "description": {
+            "hashtags": [
+              {
+                "start": 32,
+                "end": 46,
+                "tag": "Am\u00e9ricaLatina"
+              },
+              {
+                "start": 58,
+                "end": 62,
+                "tag": "RPP"
+              },
+              {
+                "start": 63,
+                "end": 72,
+                "tag": "Pol\u00edtica"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 73,
+                "end": 89,
+                "username": "elcomercio_peru"
+              },
+              {
+                "start": 90,
+                "end": 98,
+                "username": "CanalN_"
+              },
+              {
+                "start": 99,
+                "end": 114,
+                "username": "larepublica_pe"
+              }
+            ]
+          }
+        },
+        "created_at": "2016-05-09T20:26:15.000Z",
+        "id": "729769470764322816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/843907050916790277/8JQwEzlN_normal.jpg"
+      },
+      {
+        "name": "Alerta de Noticias | Per\u00fa",
+        "description": "Tu fuente de noticias del Per\u00fa, #Am\u00e9ricaLatina y el Mundo #PedroCastillo #BicentenarioPeru #Cerr\u00f3n #Odebrecht #Pol\u00edtica @elcomercio_peru @larepublica_pe",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 915,
+          "tweet_count": 211307,
+          "listed_count": 14
+        },
+        "username": "PeruNewsAlerta",
+        "location": "Peru",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 32,
+                "end": 46,
+                "tag": "Am\u00e9ricaLatina"
+              },
+              {
+                "start": 58,
+                "end": 72,
+                "tag": "PedroCastillo"
+              },
+              {
+                "start": 73,
+                "end": 90,
+                "tag": "BicentenarioPeru"
+              },
+              {
+                "start": 91,
+                "end": 98,
+                "tag": "Cerr\u00f3n"
+              },
+              {
+                "start": 99,
+                "end": 109,
+                "tag": "Odebrecht"
+              },
+              {
+                "start": 110,
+                "end": 119,
+                "tag": "Pol\u00edtica"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 120,
+                "end": 136,
+                "username": "elcomercio_peru"
+              },
+              {
+                "start": 137,
+                "end": 152,
+                "username": "larepublica_pe"
+              }
+            ]
+          }
+        },
+        "created_at": "2015-03-21T00:53:27.000Z",
+        "id": "3100691602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1139341944021299205/RSseSLdZ_normal.jpg"
+      },
+      {
+        "pinned_tweet_id": "1427208512317296641",
+        "name": "Ahora Noticias",
+        "description": "Somos un medio de comunicaci\u00f3n que llega a todos nuestros lectores a trav\u00e9s del concepto Periodismo 2.0 en las Redes Sociales.",
+        "protected": false,
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 19103,
+          "following_count": 1072,
+          "tweet_count": 272688,
+          "listed_count": 299
+        },
+        "username": "AhoraTabasco",
+        "location": "Villahermosa, Tabasco",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/eg9Xaotqf1",
+                "expanded_url": "https://ahoranoticias.com.mx",
+                "display_url": "ahoranoticias.com.mx"
+              }
+            ]
+          }
+        },
+        "created_at": "2011-06-11T16:07:19.000Z",
+        "id": "315278595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366447337825054720/xmkUWaF5_normal.png"
+      },
+      {
+        "pinned_tweet_id": "912519121442672640",
+        "name": "Oliver L\u00f3pez",
+        "description": "Periodista | Editor Web de @ReformaNacional \ud83c\uddf2\ud83c\uddfd",
+        "protected": false,
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 1789,
+          "tweet_count": 16354,
+          "listed_count": 14
+        },
+        "username": "Ovilerio",
+        "location": "CDMX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/jUXrCXFgPC",
+                "expanded_url": "http://reforma.com",
+                "display_url": "reforma.com"
+              }
+            ]
+          },
+          "description": {
+            "mentions": [
+              {
+                "start": 27,
+                "end": 43,
+                "username": "ReformaNacional"
+              }
+            ]
+          }
+        },
+        "created_at": "2012-06-24T02:17:12.000Z",
+        "id": "616670315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344304306300858369/mU4eedYA_normal.jpg"
+      }
+    ],
+    "places": [
+      {
+        "full_name": "Montevideu, Uruguai",
+        "geo": {
+          "type": "Feature",
+          "bbox": [
+            -56.430439,
+            -34.937896,
+            -56.029341,
+            -34.701599
+          ],
+          "properties": {}
+        },
+        "country": "Uruguai",
+        "id": "01a9dbb9232f0fac",
+        "name": "Montevideu",
+        "country_code": "UY",
+        "place_type": "admin"
+      },
+      {
+        "full_name": "Guatemala",
+        "geo": {
+          "type": "Feature",
+          "bbox": [
+            -92.2273874,
+            13.72873,
+            -88.2210552,
+            17.816205
+          ],
+          "properties": {}
+        },
+        "country": "Guatemala",
+        "id": "13d479b108707983",
+        "name": "Guatemala",
+        "country_code": "GT",
+        "place_type": "country"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1427451295225589760",
+    "oldest_id": "1427449867991883783",
+    "result_count": 100,
+    "next_token": "b26v89c19zqg8o3fpdm9exmgzr3d2vxqxx1393hydohh9"
+  }
+}

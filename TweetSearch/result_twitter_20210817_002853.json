@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "author_id": "1069468831385509888",
+      "id": "1425540438614691841",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0
+      },
+      "text": "Te convidamos para nosso \u00faltimo dia de evento! \n\nAssista as 18:00 BRT: https://t.co/0nxiWMHSuY\n\n18 BRT - Cripto com @BrianBrooksUS e Rene Reinsberg @CeloOrg, mod. por @mnicklas\n \n19 BRT - Futuro Pagamentos com @Dan_Schulman, CEO @Paypal $PYPL, mod. por Cliff Sobel @valorcapgroup https://t.co/5DAYK62sHY",
+      "lang": "pt",
+      "created_at": "2021-08-11T19:31:40.000Z"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "username": "BrazilatSV",
+        "protected": false,
+        "id": "1069468831385509888",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "start": 0,
+                "end": 23,
+                "url": "https://t.co/TUpPBB6Ptt",
+                "expanded_url": "http://www.brazilatsiliconvalley.com",
+                "display_url": "brazilatsiliconvalley.com"
+              }
+            ]
+          }
+        },
+        "created_at": "2018-12-03T05:50:13.000Z",
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 47,
+          "tweet_count": 330,
+          "listed_count": 1
+        },
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351305184958410753/4v6S-AQa_normal.jpg",
+        "description": "\ud83c\udde7\ud83c\uddf7\ud83d\ude80 Movimento e confer\u00eancia anual liderados por estudantes brasileiros de Stanford e Berkeley para transformar o Brasil com Tecnologia e Inova\u00e7\u00e3o",
+        "location": "Silicon Valley",
+        "verified": false,
+        "name": "@brazilatsv"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1425540438614691841",
+    "oldest_id": "1425540438614691841",
+    "result_count": 1
+  }
+}
