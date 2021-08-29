@@ -1,5 +1,4 @@
 from src.Common import Common
-import numpy as np
 import json 
 import urllib as url
 import requests

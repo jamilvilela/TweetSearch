@@ -42,8 +42,8 @@ if __name__ == "__main__":
                 Twitter_NextToken = objTweets.meta.next_token
             
             #save result into a backup file
-            file_name = Common.save_to_file(objTweets)
-            print(f'file created: {file_name}')
+            #file_name = Common.save_to_file(objTweets)
+            #print(f'file created: {file_name}')
 
             if objTweets.meta.result_count == 0:
                 print('Nothing found, Bro :(')

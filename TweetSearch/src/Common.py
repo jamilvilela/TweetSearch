@@ -44,7 +44,7 @@ class Common():
 
     def save_to_file(tweets) -> str:
         sdt = datetime.datetime.now().strftime(Common.FILE_NAME_DT_FMT)
-        with (open(f'result_twitter_{sdt}.json', mode='w', encoding='utf-8')) as f:
+        with (open(f'result_twitter_{sdt}.json', mode='w', encoding='utf-7')) as f:
             print(tweets, file=f)
         return f.name
 
