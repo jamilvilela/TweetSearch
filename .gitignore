@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Tweet Search Project
+env/
+conf/
+Ingestion-Twitter-MongoDB/
+
 # User-specific files
 *.rsuser
 *.suo
