@@ -5,7 +5,7 @@
     <ProjectGuid>7e867d82-64df-4720-a0da-2cb10e980a9a</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>src\main.py</StartupFile>
+    <StartupFile>src\view\main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,19 +23,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="src\Common.py">
+    <Compile Include="src\business\APIAppClient.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="src\main.py">
+    <Compile Include="src\business\Common.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="src\view\main.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="src\data\MongoDB.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="src\source\Tweet.py">
+    <Compile Include="src\business\JsonToObj.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="src\source\APITweetSearch.py" />
+    <Compile Include="src\business\APITweetSearch.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="Ingestion-Twitter-MongoDB\env\">
@@ -60,10 +63,16 @@
   <ItemGroup>
     <Folder Include="src\" />
     <Folder Include="src\data\" />
-    <Folder Include="src\source\" />
+    <Folder Include="src\conf\" />
+    <Folder Include="src\view\" />
+    <Folder Include="src\business\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.7" />
+    <InterpreterReference Include="Global|VisualStudio|env (Python 3.7 (64-bit))" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\conf\app.config.json" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

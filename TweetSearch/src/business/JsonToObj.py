@@ -1,19 +1,19 @@
 import json
 
-class jsonify:
+class jsonToObj:
     def __init__(self, data):
         self.jsonify = data
 
     def __getattr__(self, attr):
         value = self.jsonify.get(attr)
         if isinstance(value, (list, dict)):
-            return jsonify(value)
+            return jsonToObj(value)
         return value
 
     def __getitem__(self, index):
         value = self.jsonify[index]
         if isinstance(value, (list, dict)):
-            return jsonify(value)
+            return jsonToObj(value)
         return value
 
     def __setitem__(self, index, value):
@@ -27,5 +27,4 @@ class jsonify:
 
     def __repr__(self):
         return json.dumps(self.jsonify, indent=2, default=lambda x: str(x))
-
 
